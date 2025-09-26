@@ -233,6 +233,11 @@ class MLModelTrainer:
         """
         logger.info("Training ML model...")
         
+        # Set feature columns if not already set
+        if self.feature_columns is None:
+            self.feature_columns = [col for col in df.columns 
+                                  if col not in ['student_id', 'bin_index', 'target_probability']]
+        
         # Prepare features and target
         X = df[self.feature_columns].copy()
         
