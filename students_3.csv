@@ -1,0 +1,251 @@
+student_id,first_name,last_name,graduation_year,major,dietary_restrictions,hometown,residence_hall,meal_plan,gpa,email
+STU261,Sage,Riverstone,2025,Biomedical Engineering,None,"Portland, OR",Tech Hub,Flex Plan,3.7,sage.riverstone@university.edu
+STU262,Phoenix,Goldwater,2026,Quantum Computing,Vegetarian,"Boulder, CO",Innovation House,14 Meals,3.9,phoenix.goldwater@university.edu
+STU263,River,Stormwind,2024,Marine Biology,Vegan,"San Diego, CA",Oceanview Hall,Unlimited,3.5,river.stormwind@university.edu
+STU264,Luna,Nightshade,2027,Astrophysics,Gluten-Free,"Austin, TX",Observatory Tower,10 Meals,3.8,luna.nightshade@university.edu
+STU265,Atlas,Ironforge,2025,Materials Science,None,"Pittsburgh, PA",Engineering Commons,14 Meals,3.6,atlas.ironforge@university.edu
+STU266,Willow,Brightwater,2026,Environmental Engineering,Lactose Intolerant,"Seattle, WA",Green Living,Unlimited,3.4,willow.brightwater@university.edu
+STU267,Orion,Stargaze,2024,Computer Science,Kosher,"New York, NY",Digital Dormitory,Flex Plan,3.9,orion.stargaze@university.edu
+STU268,Nova,Moonbeam,2027,Art Therapy,Halal,"Chicago, IL",Creative Commons,10 Meals,3.7,nova.moonbeam@university.edu
+STU269,Forest,Willowbrook,2025,Forestry Science,None,"Portland, ME",Natural Hall,14 Meals,3.5,forest.willowbrook@university.edu
+STU270,Ocean,Deepwater,2026,Oceanography,Vegetarian,"Miami, FL",Coastal Commons,Unlimited,3.8,ocean.deepwater@university.edu
+STU271,Storm,Thunderbolt,2024,Meteorology,Vegan,"Oklahoma City, OK",Weather Station,14 Meals,3.6,storm.thunderbolt@university.edu
+STU272,Sky,Cloudwalker,2027,Aerospace Engineering,None,"Houston, TX",Flight Tower,10 Meals,3.9,sky.cloudwalker@university.edu
+STU273,Reed,Marshland,2025,Wetland Ecology,Gluten-Free,"New Orleans, LA",Bayou Hall,Flex Plan,3.4,reed.marshland@university.edu
+STU274,Vale,Mountainview,2026,Geological Sciences,Lactose Intolerant,"Denver, CO",Rocky Ridge,Unlimited,3.7,vale.mountainview@university.edu
+STU275,Ember,Firelight,2024,Chemical Engineering,Kosher,"Phoenix, AZ",Desert Oasis,14 Meals,3.8,ember.firelight@university.edu
+STU276,Frost,Winterborne,2027,Climate Science,Halal,"Minneapolis, MN",Nordic Hall,10 Meals,3.5,frost.winterborne@university.edu
+STU277,Dawn,Sunrise,2025,Solar Engineering,None,"San Francisco, CA",Solar Commons,Flex Plan,3.6,dawn.sunrise@university.edu
+STU278,Dusk,Twilight,2026,Astronomy,Vegetarian,"Los Angeles, CA",Starlight Tower,14 Meals,3.9,dusk.twilight@university.edu
+STU279,Sage,Herbweaver,2024,Pharmaceutical Sciences,Vegan,"Portland, OR",Wellness Wing,Unlimited,3.7,sage.herbweaver@university.edu
+STU280,Jade,Gemstone,2027,Mineralogy,None,"Salt Lake City, UT",Crystal Hall,10 Meals,3.4,jade.gemstone@university.edu
+STU281,Coral,Reefwalker,2025,Marine Conservation,Gluten-Free,"Key West, FL",Aquatic Center,14 Meals,3.8,coral.reefwalker@university.edu
+STU282,Flint,Rockwell,2026,Mining Engineering,Lactose Intolerant,"Boise, ID",Mountain Lodge,Flex Plan,3.5,flint.rockwell@university.edu
+STU283,Clay,Earthshaper,2024,Ceramics Engineering,Kosher,"Santa Fe, NM",Adobe Commons,Unlimited,3.6,clay.earthshaper@university.edu
+STU284,Stone,Quarrymaster,2027,Construction Management,Halal,"Las Vegas, NV",Builder Hall,14 Meals,3.9,stone.quarrymaster@university.edu
+STU285,Brook,Streamflow,2025,Hydrology,None,"Madison, WI",Riverside Residence,10 Meals,3.7,brook.streamflow@university.edu
+STU286,Ridge,Peakview,2026,Mountain Geology,Vegetarian,"Bozeman, MT",Alpine Lodge,Flex Plan,3.4,ridge.peakview@university.edu
+STU287,Canyon,Redrock,2024,Geological Survey,Vegan,"Flagstaff, AZ",Mesa Hall,14 Meals,3.8,canyon.redrock@university.edu
+STU288,Prairie,Grassland,2027,Agricultural Engineering,None,"Omaha, NE",Plains Commons,Unlimited,3.5,prairie.grassland@university.edu
+STU289,Meadow,Fieldstone,2025,Botany,Gluten-Free,"Burlington, VT",Meadowbrook,10 Meals,3.6,meadow.fieldstone@university.edu
+STU290,Grove,Oakenheart,2026,Dendrology,Lactose Intolerant,"Asheville, NC",Forest Hall,14 Meals,3.9,grove.oakenheart@university.edu
+STU291,Thorne,Wildwood,2024,Wildlife Management,Kosher,"Yellowstone, WY",Ranger Station,Flex Plan,3.7,thorne.wildwood@university.edu
+STU292,Ivy,Vineyard,2027,Viticulture,Halal,"Napa, CA",Vineyard Commons,Unlimited,3.4,ivy.vineyard@university.edu
+STU293,Hazel,Nutgrove,2025,Food Science,None,"Nashville, TN",Culinary Hall,14 Meals,3.8,hazel.nutgrove@university.edu
+STU294,Maple,Sugarhouse,2026,Agricultural Economics,Vegetarian,"Burlington, VT",Sugar Pine,10 Meals,3.5,maple.sugarhouse@university.edu
+STU295,Cedar,Evergreen,2024,Forestry,Vegan,"Spokane, WA",Timberline Hall,Flex Plan,3.6,cedar.evergreen@university.edu
+STU296,Birch,Silverleaf,2027,Paper Engineering,None,"Portland, ME",Pulp Mill Commons,14 Meals,3.9,birch.silverleaf@university.edu
+STU297,Aspen,Goldleaf,2025,Environmental Policy,Gluten-Free,"Aspen, CO",Highland Lodge,Unlimited,3.7,aspen.goldleaf@university.edu
+STU298,Rowan,Redberry,2026,Nutrition Science,Lactose Intolerant,"Boston, MA",Health Commons,10 Meals,3.4,rowan.redberry@university.edu
+STU299,Laurel,Greenway,2024,Landscape Architecture,Kosher,"Richmond, VA",Garden Hall,14 Meals,3.8,laurel.greenway@university.edu
+STU300,Holly,Winterberry,2027,Seasonal Studies,Halal,"Fairbanks, AK",Arctic Lodge,Flex Plan,3.5,holly.winterberry@university.edu
+STU301,Fern,Shadowmoss,2025,Mycology,None,"Eugene, OR",Mushroom Commons,Unlimited,3.6,fern.shadowmoss@university.edu
+STU302,Moss,Greenstone,2026,Bryology,Vegetarian,"Seattle, WA",Rainforest Hall,14 Meals,3.9,moss.greenstone@university.edu
+STU303,Lichen,Rockface,2024,Symbiosis Studies,Vegan,"Anchorage, AK",Tundra Tower,10 Meals,3.7,lichen.rockface@university.edu
+STU304,Kelp,Seashore,2027,Marine Botany,None,"Monterey, CA",Kelp Forest Hall,Flex Plan,3.4,kelp.seashore@university.edu
+STU305,Coral,Tidewaters,2025,Marine Biology,Gluten-Free,"Honolulu, HI",Reef Commons,14 Meals,3.8,coral.tidewaters@university.edu
+STU306,Pearl,Oceandeep,2026,Malacology,Lactose Intolerant,"Mobile, AL",Shell Beach Hall,Unlimited,3.5,pearl.oceandeep@university.edu
+STU307,Sand,Driftwood,2024,Coastal Engineering,Kosher,"Virginia Beach, VA",Dunes Commons,10 Meals,3.6,sand.driftwood@university.edu
+STU308,Shell,Beachcomber,2027,Marine Archaeology,Halal,"Cape Cod, MA",Lighthouse Tower,14 Meals,3.9,shell.beachcomber@university.edu
+STU309,Wave,Breakwater,2025,Ocean Engineering,None,"San Diego, CA",Surfside Hall,Flex Plan,3.7,wave.breakwater@university.edu
+STU310,Tide,Moonpull,2026,Tidal Energy,Vegetarian,"Bar Harbor, ME",Coastal Commons,Unlimited,3.4,tide.moonpull@university.edu
+STU311,Current,Jetstream,2024,Fluid Dynamics,Vegan,"Miami, FL",Flow Tower,14 Meals,3.8,current.jetstream@university.edu
+STU312,Drift,Windborne,2027,Aerodynamics,None,"Corpus Christi, TX",Wind Hall,10 Meals,3.5,drift.windborne@university.edu
+STU313,Gale,Stormfront,2025,Atmospheric Physics,Gluten-Free,"Galveston, TX",Hurricane Commons,Flex Plan,3.6,gale.stormfront@university.edu
+STU314,Breeze,Whisperwind,2026,Wind Engineering,Lactose Intolerant,"Palm Springs, CA",Desert Winds,14 Meals,3.9,breeze.whisperwind@university.edu
+STU315,Zephyr,Gentleair,2024,Climate Modeling,Kosher,"San Francisco, CA",Fog Hall,Unlimited,3.7,zephyr.gentleair@university.edu
+STU316,Tempest,Roughsea,2027,Storm Tracking,Halal,"Norfolk, VA",Weather Station,10 Meals,3.4,tempest.roughsea@university.edu
+STU317,Hurricane,Eyewall,2025,Disaster Management,None,"New Orleans, LA",Emergency Commons,14 Meals,3.8,hurricane.eyewall@university.edu
+STU318,Tornado,Funnel,2026,Severe Weather,Vegetarian,"Topeka, KS",Storm Cellar Hall,Flex Plan,3.5,tornado.funnel@university.edu
+STU319,Cyclone,Vortex,2024,Atmospheric Circulation,Vegan,"Darwin, NT",Cyclone Commons,Unlimited,3.6,cyclone.vortex@university.edu
+STU320,Blizzard,Whiteout,2027,Snow Science,None,"Anchorage, AK",Arctic Hall,14 Meals,3.9,blizzard.whiteout@university.edu
+STU321,Avalanche,Snowslide,2025,Glaciology,Gluten-Free,"Aspen, CO",Mountain Safety,10 Meals,3.7,avalanche.snowslide@university.edu
+STU322,Glacier,Iceflow,2026,Ice Dynamics,Lactose Intolerant,"Juneau, AK",Glacier Commons,Flex Plan,3.4,glacier.iceflow@university.edu
+STU323,Iceberg,Floating,2024,Polar Studies,Kosher,"Reykjavik, IS",Arctic Research,14 Meals,3.8,iceberg.floating@university.edu
+STU324,Tundra,Permafrost,2027,Arctic Engineering,Halal,"Fairbanks, AK",Polar Hall,Unlimited,3.5,tundra.permafrost@university.edu
+STU325,Aurora,Borealis,2025,Magnetosphere Studies,None,"Tromsø, NO",Northern Lights,10 Meals,3.6,aurora.borealis@university.edu
+STU326,Solar,Flare,2026,Space Weather,Vegetarian,"Albuquerque, NM",Observatory Tower,14 Meals,3.9,solar.flare@university.edu
+STU327,Cosmic,Radiation,2024,Astroparticle Physics,Vegan,"Mauna Kea, HI",Telescope Commons,Flex Plan,3.7,cosmic.radiation@university.edu
+STU328,Stellar,Nursery,2027,Star Formation,None,"Atacama, CL",Desert Observatory,Unlimited,3.4,stellar.nursery@university.edu
+STU329,Galactic,Core,2025,Black Hole Physics,Gluten-Free,"Palomar, CA",Deep Space Hall,14 Meals,3.8,galactic.core@university.edu
+STU330,Nebula,Stardust,2026,Interstellar Medium,Lactose Intolerant,"Green Bank, WV",Radio Commons,10 Meals,3.5,nebula.stardust@university.edu
+STU331,Quasar,Lightbeam,2024,Active Galactic Nuclei,Kosher,"Arecibo, PR",Pulsar Hall,Flex Plan,3.6,quasar.lightbeam@university.edu
+STU332,Pulsar,Neutron,2027,Compact Objects,Halal,"Socorro, NM",Radio Tower,14 Meals,3.9,pulsar.neutron@university.edu
+STU333,Comet,Icerock,2025,Small Body Dynamics,None,"Flagstaff, AZ",Asteroid Commons,Unlimited,3.7,comet.icerock@university.edu
+STU334,Meteor,Shooting,2026,Impact Craters,Vegetarian,"Meteor Crater, AZ",Impact Hall,10 Meals,3.4,meteor.shooting@university.edu
+STU335,Asteroid,Beltway,2024,Near-Earth Objects,Vegan,"Pasadena, CA",JPL Commons,14 Meals,3.8,asteroid.beltway@university.edu
+STU336,Planet,Wanderer,2027,Exoplanet Detection,None,"Cambridge, MA",Kepler Hall,Flex Plan,3.5,planet.wanderer@university.edu
+STU337,Moon,Satellite,2025,Lunar Geology,Gluten-Free,"Houston, TX",Apollo Commons,Unlimited,3.6,moon.satellite@university.edu
+STU338,Earth,Bluemarble,2026,Planetary Science,Lactose Intolerant,"Boulder, CO",Terrestrial Hall,14 Meals,3.9,earth.bluemarble@university.edu
+STU339,Mars,Redplanet,2024,Martian Geology,Kosher,"Pasadena, CA",Mars Yard Commons,10 Meals,3.7,mars.redplanet@university.edu
+STU340,Venus,Morningstar,2027,Atmospheric Chemistry,Halal,"Moffett Field, CA",Venus Hall,Flex Plan,3.4,venus.morningstar@university.edu
+STU341,Jupiter,Gasgiant,2025,Atmospheric Dynamics,None,"Tucson, AZ",Giant Planet Commons,14 Meals,3.8,jupiter.gasgiant@university.edu
+STU342,Saturn,Ringed,2026,Ring Dynamics,Vegetarian,"Goldstone, CA",Ring Hall,Unlimited,3.5,saturn.ringed@university.edu
+STU343,Uranus,Icegiant,2024,Magnetospheres,Vegan,"Canberra, AU",Ice Giant Commons,10 Meals,3.6,uranus.icegiant@university.edu
+STU344,Neptune,Windy,2027,Extreme Weather,None,"Madrid, ES",Distant World Hall,14 Meals,3.9,neptune.windy@university.edu
+STU345,Pluto,Dwarf,2025,Trans-Neptunian Objects,Gluten-Free,"New Horizons, MD",Kuiper Commons,Flex Plan,3.7,pluto.dwarf@university.edu
+STU346,Alpha,Centauri,2026,Stellar Systems,Lactose Intolerant,"La Serena, CL",Binary Star Hall,Unlimited,3.4,alpha.centauri@university.edu
+STU347,Proxima,Nearest,2024,Habitable Zones,Kosher,"Paranal, CL",Exoplanet Commons,14 Meals,3.8,proxima.nearest@university.edu
+STU348,Sirius,Brightest,2027,Binary Evolution,Halal,"Mount Wilson, CA",Stellar Hall,10 Meals,3.5,sirius.brightest@university.edu
+STU349,Vega,Polestar,2025,Stellar Classification,None,"Palomar, CA",Spectral Commons,Flex Plan,3.6,vega.polestar@university.edu
+STU350,Polaris,North,2026,Navigation Science,Vegetarian,"Greenwich, UK",Maritime Hall,14 Meals,3.9,polaris.north@university.edu
+STU351,Betelgeuse,Redsupergiant,2024,Stellar Evolution,Vegan,"Mauna Kea, HI",Giant Star Commons,Unlimited,3.7,betelgeuse.redsupergiant@university.edu
+STU352,Rigel,Bluesupergiant,2027,Massive Stars,None,"La Palma, ES",Blue Giant Hall,10 Meals,3.4,rigel.bluesupergiant@university.edu
+STU353,Antares,Redheart,2025,Variable Stars,Gluten-Free,"Siding Spring, AU",Variable Commons,14 Meals,3.8,antares.redheart@university.edu
+STU354,Aldebaran,Follower,2026,Giant Stars,Lactose Intolerant,"Cerro Tololo, CL",Orange Giant Hall,Flex Plan,3.5,aldebaran.follower@university.edu
+STU355,Spica,Wheatear,2024,Binary Systems,Kosher,"Gemini South, CL",Double Star Commons,Unlimited,3.6,spica.wheatear@university.edu
+STU356,Arcturus,Guardian,2027,Red Giants,Halal,"Keck, HI",Red Giant Hall,14 Meals,3.9,arcturus.guardian@university.edu
+STU357,Capella,Goat,2025,Multiple Stars,None,"Subaru, HI",Multiple System Commons,10 Meals,3.7,capella.goat@university.edu
+STU358,Procyon,Before,2026,White Dwarfs,Vegetarian,"Very Large Telescope, CL",White Dwarf Hall,Flex Plan,3.4,procyon.before@university.edu
+STU359,Canopus,Helmsman,2024,Southern Stars,Vegan,"Anglo-Australian, AU",Southern Commons,14 Meals,3.8,canopus.helmsman@university.edu
+STU360,Altair,Eagle,2027,Stellar Rotation,None,"Apache Point, NM",Rotating Star Hall,Unlimited,3.5,altair.eagle@university.edu
+STU361,Deneb,Tail,2025,Supergiants,Gluten-Free,"McDonald, TX",Supergiant Commons,10 Meals,3.6,deneb.tail@university.edu
+STU362,Regulus,Prince,2026,Main Sequence,Lactose Intolerant,"Lowell, AZ",Main Sequence Hall,14 Meals,3.9,regulus.prince@university.edu
+STU363,Adhara,Virgins,2024,Hot Stars,Kosher,"Lick, CA",Hot Star Commons,Flex Plan,3.7,adhara.virgins@university.edu
+STU364,Castor,Horseman,2027,Binary Evolution,Halal,"Yerkes, WI",Binary Hall,Unlimited,3.4,castor.horseman@university.edu
+STU365,Pollux,Fighter,2025,Giant Evolution,None,"Wilson, CA",Evolution Commons,14 Meals,3.8,pollux.fighter@university.edu
+STU366,Fomalhaut,Lonely,2026,Young Stars,Vegetarian,"Hubble, MD",Young Star Hall,10 Meals,3.5,fomalhaut.lonely@university.edu
+STU367,Mimosa,Sensitive,2024,Stellar Clusters,Vegan,"La Silla, CL",Cluster Commons,Flex Plan,3.6,mimosa.sensitive@university.edu
+STU368,Gacrux,Pointing,2027,Southern Cross,None,"Siding Spring, AU",Cross Hall,14 Meals,3.9,gacrux.pointing@university.edu
+STU369,Shaula,Stinger,2025,Stellar Winds,Gluten-Free,"Paranal, CL",Stellar Wind Commons,Unlimited,3.7,shaula.stinger@university.edu
+STU370,Bellatrix,Amazon,2026,Blue Giants,Lactose Intolerant,"Gemini North, HI",Blue Star Hall,10 Meals,3.4,bellatrix.amazon@university.edu
+STU371,Elnath,Butting,2024,Stellar Boundaries,Kosher,"SOAR, CL",Boundary Commons,14 Meals,3.8,elnath.butting@university.edu
+STU372,Miaplacidus,Placid,2027,Southern Navigation,Halal,"ESO, CL",Southern Navigation Hall,Flex Plan,3.5,miaplacidus.placid@university.edu
+STU373,Alkaid,Leader,2025,Stellar Associations,None,"MMT, AZ",Association Commons,Unlimited,3.6,alkaid.leader@university.edu
+STU374,Alnilam,String,2026,Orion Belt,Vegetarian,"IRTF, HI",Belt Star Hall,14 Meals,3.9,alnilam.string@university.edu
+STU375,Gamma,Crucis,2024,Cross Navigation,Vegan,"SALT, ZA",Navigation Commons,10 Meals,3.7,gamma.crucis@university.edu
+STU376,Epsilon,Carinae,2027,Variable Giants,None,"Las Campanas, CL",Variable Giant Hall,Flex Plan,3.4,epsilon.carinae@university.edu
+STU377,Delta,Velorum,2025,Stellar Velocities,Gluten-Free,"CTIO, CL",Velocity Commons,14 Meals,3.8,delta.velorum@university.edu
+STU378,Lambda,Scorpii,2026,Stellar Brightness,Lactose Intolerant,"AAT, AU",Brightness Hall,Unlimited,3.5,lambda.scorpii@university.edu
+STU379,Theta,Carinae,2024,Stellar Classification,Kosher,"SAAO, ZA",Classification Commons,10 Meals,3.6,theta.carinae@university.edu
+STU380,Kappa,Orionis,2027,Stellar Formation,Halal,"NOT, ES",Formation Hall,14 Meals,3.9,kappa.orionis@university.edu
+STU381,Zeta,Puppis,2025,Wolf-Rayet Stars,None,"TNG, ES",Wolf-Rayet Commons,Flex Plan,3.7,zeta.puppis@university.edu
+STU382,Eta,Carinae,2026,Luminous Variables,Vegetarian,"WHT, ES",Luminous Variable Hall,Unlimited,3.4,eta.carinae@university.edu
+STU383,Mu,Cephei,2024,Red Hypergiants,Vegan,"GTC, ES",Hypergiant Commons,14 Meals,3.8,mu.cephei@university.edu
+STU384,Beta,Lyrae,2027,Eclipsing Binaries,None,"LBT, AZ",Eclipsing Hall,10 Meals,3.5,beta.lyrae@university.edu
+STU385,Alpha,Herculis,2025,Stellar Pulsations,Gluten-Free,"HET, TX",Pulsation Commons,Flex Plan,3.6,alpha.herculis@university.edu
+STU386,Gamma,Cassiopeiae,2026,Be Stars,Lactose Intolerant,"SALT, ZA",Be Star Hall,14 Meals,3.9,gamma.cassiopeiae@university.edu
+STU387,Delta,Cephei,2024,Cepheid Variables,Kosher,"WIYN, AZ",Cepheid Commons,Unlimited,3.7,delta.cephei@university.edu
+STU388,RR,Lyrae,2027,RR Lyrae Variables,Halal,"SOAR, CL",RR Lyrae Hall,10 Meals,3.4,rr.lyrae@university.edu
+STU389,Mira,Wonderful,2025,Long Period Variables,None,"Palomar, CA",Long Period Commons,14 Meals,3.8,mira.wonderful@university.edu
+STU390,Algol,Demon,2026,Eclipsing Systems,Vegetarian,"Apache Point, NM",Eclipse Hall,Flex Plan,3.5,algol.demon@university.edu
+STU391,Perseus,Hero,2024,Stellar Nurseries,Vegan,"Keck, HI",Nursery Commons,Unlimited,3.6,perseus.hero@university.edu
+STU392,Andromeda,Chained,2027,Galactic Neighbors,None,"Subaru, HI",Galactic Hall,14 Meals,3.9,andromeda.chained@university.edu
+STU393,Cassiopeia,Queen,2025,Circumpolar Stars,Gluten-Free,"CFHT, HI",Circumpolar Commons,10 Meals,3.7,cassiopeia.queen@university.edu
+STU394,Cygnus,Swan,2026,Swan Constellation,Lactose Intolerant,"Gemini North, HI",Swan Hall,Flex Plan,3.4,cygnus.swan@university.edu
+STU395,Draco,Dragon,2024,Polar Dragons,Kosher,"IRTF, HI",Dragon Commons,14 Meals,3.8,draco.dragon@university.edu
+STU396,Ursa,Major,2027,Great Bear,Halal,"MMT, AZ",Great Bear Hall,Unlimited,3.5,ursa.major@university.edu
+STU397,Ursa,Minor,2025,Little Bear,None,"WIYN, AZ",Little Bear Commons,10 Meals,3.6,ursa.minor@university.edu
+STU398,Leo,Lion,2026,Lion King,Vegetarian,"HET, TX",Lion Hall,14 Meals,3.9,leo.lion@university.edu
+STU399,Virgo,Maiden,2024,Harvest Maiden,Vegan,"LBT, AZ",Harvest Commons,Flex Plan,3.7,virgo.maiden@university.edu
+STU400,Libra,Scales,2027,Balance Keeper,None,"Apache Point, NM",Balance Hall,Unlimited,3.4,libra.scales@university.edu
+STU401,Scorpius,Scorpion,2025,Desert Scorpion,Gluten-Free,"McDonald, TX",Scorpion Commons,14 Meals,3.8,scorpius.scorpion@university.edu
+STU402,Sagittarius,Archer,2026,Galactic Archer,Lactose Intolerant,"Lowell, AZ",Archer Hall,10 Meals,3.5,sagittarius.archer@university.edu
+STU403,Capricornus,Goat,2024,Sea Goat,Kosher,"Lick, CA",Sea Goat Commons,Flex Plan,3.6,capricornus.goat@university.edu
+STU404,Aquarius,Water,2027,Water Bearer,Halal,"Palomar, CA",Water Bearer Hall,14 Meals,3.9,aquarius.water@university.edu
+STU405,Pisces,Fish,2025,Twin Fish,None,"Wilson, CA",Twin Fish Commons,Unlimited,3.7,pisces.fish@university.edu
+STU406,Aries,Ram,2026,Golden Ram,Vegetarian,"Yerkes, WI",Golden Ram Hall,10 Meals,3.4,aries.ram@university.edu
+STU407,Taurus,Bull,2024,Charging Bull,Vegan,"Mount Wilson, CA",Bull Commons,14 Meals,3.8,taurus.bull@university.edu
+STU408,Gemini,Twins,2027,Celestial Twins,None,"Palomar, CA",Twins Hall,Flex Plan,3.5,gemini.twins@university.edu
+STU409,Cancer,Crab,2025,Moonchild Crab,Gluten-Free,"Lick, CA",Moonchild Commons,Unlimited,3.6,cancer.crab@university.edu
+STU410,Ophiuchus,Serpent,2026,Serpent Bearer,Lactose Intolerant,"Keck, HI",Serpent Hall,14 Meals,3.9,ophiuchus.serpent@university.edu
+STU411,Aquila,Eagle,2024,Stellar Eagle,Kosher,"Subaru, HI",Eagle Commons,10 Meals,3.7,aquila.eagle@university.edu
+STU412,Lyra,Harp,2027,Celestial Harp,Halal,"CFHT, HI",Harp Hall,Flex Plan,3.4,lyra.harp@university.edu
+STU413,Hercules,Hero,2025,Mighty Hero,None,"Gemini North, HI",Hero Commons,14 Meals,3.8,hercules.hero@university.edu
+STU414,Corona,Crown,2026,Northern Crown,Vegetarian,"IRTF, HI",Crown Hall,Unlimited,3.5,corona.crown@university.edu
+STU415,Bootes,Herdsman,2024,Bear Driver,Vegan,"MMT, AZ",Herdsman Commons,10 Meals,3.6,bootes.herdsman@university.edu
+STU416,Centaurus,Centaur,2027,Wise Centaur,None,"WIYN, AZ",Centaur Hall,14 Meals,3.9,centaurus.centaur@university.edu
+STU417,Lupus,Wolf,2025,Lone Wolf,Gluten-Free,"HET, TX",Wolf Commons,Flex Plan,3.7,lupus.wolf@university.edu
+STU418,Ara,Altar,2026,Sacred Altar,Lactose Intolerant,"LBT, AZ",Sacred Hall,Unlimited,3.4,ara.altar@university.edu
+STU419,Pavo,Peacock,2024,Southern Peacock,Kosher,"Apache Point, NM",Peacock Commons,14 Meals,3.8,pavo.peacock@university.edu
+STU420,Indus,Indian,2027,Southern Indian,Halal,"McDonald, TX",Southern Hall,10 Meals,3.5,indus.indian@university.edu
+STU421,Tucana,Toucan,2025,Southern Bird,None,"Lowell, AZ",Bird Commons,Flex Plan,3.6,tucana.toucan@university.edu
+STU422,Grus,Crane,2026,Flying Crane,Vegetarian,"Lick, CA",Crane Hall,14 Meals,3.9,grus.crane@university.edu
+STU423,Phoenix,Firebird,2024,Celestial Phoenix,Vegan,"Palomar, CA",Firebird Commons,Unlimited,3.7,phoenix.firebird@university.edu
+STU424,Fornax,Furnace,2027,Stellar Furnace,None,"Wilson, CA",Furnace Hall,10 Meals,3.4,fornax.furnace@university.edu
+STU425,Sculptor,Artist,2025,Cosmic Artist,Gluten-Free,"Yerkes, WI",Artist Commons,14 Meals,3.8,sculptor.artist@university.edu
+STU426,Cetus,Whale,2026,Sea Monster,Lactose Intolerant,"Mount Wilson, CA",Monster Hall,Flex Plan,3.5,cetus.whale@university.edu
+STU427,Eridanus,River,2024,Celestial River,Kosher,"Palomar, CA",River Commons,Unlimited,3.6,eridanus.river@university.edu
+STU428,Orion,Hunter,2027,Great Hunter,Halal,"Lick, CA",Hunter Hall,14 Meals,3.9,orion.hunter@university.edu
+STU429,Lepus,Hare,2025,Swift Hare,None,"Keck, HI",Hare Commons,10 Meals,3.7,lepus.hare@university.edu
+STU430,Canis,Major,2026,Great Dog,Vegetarian,"Subaru, HI",Great Dog Hall,Flex Plan,3.4,canis.major@university.edu
+STU431,Canis,Minor,2024,Little Dog,Vegan,"CFHT, HI",Little Dog Commons,14 Meals,3.8,canis.minor@university.edu
+STU432,Monoceros,Unicorn,2027,Celestial Unicorn,None,"Gemini North, HI",Unicorn Hall,Unlimited,3.5,monoceros.unicorn@university.edu
+STU433,Hydra,Snake,2025,Water Snake,Gluten-Free,"IRTF, HI",Snake Commons,10 Meals,3.6,hydra.snake@university.edu
+STU434,Crater,Cup,2026,Sacred Cup,Lactose Intolerant,"MMT, AZ",Cup Hall,14 Meals,3.9,crater.cup@university.edu
+STU435,Corvus,Crow,2024,Wise Crow,Kosher,"WIYN, AZ",Crow Commons,Flex Plan,3.7,corvus.crow@university.edu
+STU436,Sextans,Sextant,2027,Navigation Tool,Halal,"HET, TX",Navigation Hall,Unlimited,3.4,sextans.sextant@university.edu
+STU437,Antlia,Pump,2025,Air Pump,None,"LBT, AZ",Pump Commons,14 Meals,3.8,antlia.pump@university.edu
+STU438,Pyxis,Compass,2026,Mariner's Compass,Vegetarian,"Apache Point, NM",Compass Hall,10 Meals,3.5,pyxis.compass@university.edu
+STU439,Vela,Sails,2024,Ship's Sails,Vegan,"McDonald, TX",Sails Commons,Flex Plan,3.6,vela.sails@university.edu
+STU440,Carina,Keel,2027,Ship's Keel,None,"Lowell, AZ",Keel Hall,14 Meals,3.9,carina.keel@university.edu
+STU441,Puppis,Stern,2025,Ship's Stern,Gluten-Free,"Lick, CA",Stern Commons,Unlimited,3.7,puppis.stern@university.edu
+STU442,Volans,Flying,2026,Flying Fish,Lactose Intolerant,"Palomar, CA",Flying Fish Hall,10 Meals,3.4,volans.flying@university.edu
+STU443,Dorado,Swordfish,2024,Golden Swordfish,Kosher,"Wilson, CA",Swordfish Commons,14 Meals,3.8,dorado.swordfish@university.edu
+STU444,Pictor,Easel,2027,Painter's Easel,Halal,"Yerkes, WI",Easel Hall,Flex Plan,3.5,pictor.easel@university.edu
+STU445,Reticulum,Net,2025,Stellar Net,None,"Mount Wilson, CA",Net Commons,Unlimited,3.6,reticulum.net@university.edu
+STU446,Horologium,Clock,2026,Pendulum Clock,Vegetarian,"Palomar, CA",Clock Hall,14 Meals,3.9,horologium.clock@university.edu
+STU447,Caelum,Chisel,2024,Sculptor's Chisel,Vegan,"Lick, CA",Chisel Commons,10 Meals,3.7,caelum.chisel@university.edu
+STU448,Columba,Dove,2027,Noah's Dove,None,"Keck, HI",Dove Hall,Flex Plan,3.4,columba.dove@university.edu
+STU449,Lynx,Wildcat,2025,Northern Lynx,Gluten-Free,"Subaru, HI",Wildcat Commons,14 Meals,3.8,lynx.wildcat@university.edu
+STU450,Camelopardalis,Giraffe,2026,Stellar Giraffe,Lactose Intolerant,"CFHT, HI",Giraffe Hall,Unlimited,3.5,camelopardalis.giraffe@university.edu
+STU451,Auriga,Charioteer,2024,Star Charioteer,Kosher,"Gemini North, HI",Charioteer Commons,10 Meals,3.6,auriga.charioteer@university.edu
+STU452,Triangulum,Triangle,2027,Northern Triangle,Halal,"IRTF, HI",Triangle Hall,14 Meals,3.9,triangulum.triangle@university.edu
+STU453,Lacerta,Lizard,2025,Swift Lizard,None,"MMT, AZ",Lizard Commons,Flex Plan,3.7,lacerta.lizard@university.edu
+STU454,Pegasus,Winged,2026,Flying Horse,Vegetarian,"WIYN, AZ",Winged Horse Hall,Unlimited,3.4,pegasus.winged@university.edu
+STU455,Delphinus,Dolphin,2024,Playful Dolphin,Vegan,"HET, TX",Dolphin Commons,14 Meals,3.8,delphinus.dolphin@university.edu
+STU456,Equuleus,Foal,2027,Little Horse,None,"LBT, AZ",Little Horse Hall,10 Meals,3.5,equuleus.foal@university.edu
+STU457,Sagitta,Arrow,2025,Cupid's Arrow,Gluten-Free,"Apache Point, NM",Arrow Commons,Flex Plan,3.6,sagitta.arrow@university.edu
+STU458,Vulpecula,Fox,2026,Clever Fox,Lactose Intolerant,"McDonald, TX",Fox Hall,14 Meals,3.9,vulpecula.fox@university.edu
+STU459,Canes,Venatici,2024,Hunting Dogs,Kosher,"Lowell, AZ",Hunting Commons,Unlimited,3.7,canes.venatici@university.edu
+STU460,Coma,Berenices,2027,Berenice's Hair,Halal,"Lick, CA",Hair Hall,10 Meals,3.4,coma.berenices@university.edu
+STU461,Leo,Minor,2025,Little Lion,None,"Palomar, CA",Little Lion Commons,14 Meals,3.8,leo.minor@university.edu
+STU462,Triangulum,Australe,2026,Southern Triangle,Vegetarian,"Wilson, CA",Southern Triangle Hall,Flex Plan,3.5,triangulum.australe@university.edu
+STU463,Corona,Austrina,2024,Southern Crown,Vegan,"Yerkes, WI",Southern Crown Commons,Unlimited,3.6,corona.austrina@university.edu
+STU464,Telescopium,Telescope,2027,Stargazer's Tool,None,"Mount Wilson, CA",Telescope Hall,14 Meals,3.9,telescopium.telescope@university.edu
+STU465,Microscopium,Microscope,2025,Tiny Explorer,Gluten-Free,"Palomar, CA",Microscope Commons,10 Meals,3.7,microscopium.microscope@university.edu
+STU466,Octans,Octant,2026,Southern Navigation,Lactose Intolerant,"Lick, CA",Octant Hall,Flex Plan,3.4,octans.octant@university.edu
+STU467,Apus,Bird,2024,Paradise Bird,Kosher,"Keck, HI",Paradise Commons,14 Meals,3.8,apus.bird@university.edu
+STU468,Chamaeleon,Chameleon,2027,Color Changer,Halal,"Subaru, HI",Chameleon Hall,Unlimited,3.5,chamaeleon.chameleon@university.edu
+STU469,Musca,Fly,2025,Southern Fly,None,"CFHT, HI",Fly Commons,10 Meals,3.6,musca.fly@university.edu
+STU470,Crux,Cross,2026,Southern Cross,Vegetarian,"Gemini North, HI",Southern Cross Hall,14 Meals,3.9,crux.cross@university.edu
+STU471,Norma,Square,2024,Carpenter's Square,Vegan,"IRTF, HI",Square Commons,Flex Plan,3.7,norma.square@university.edu
+STU472,Circinus,Compass,2027,Drafting Compass,None,"MMT, AZ",Drafting Hall,Unlimited,3.4,circinus.compass@university.edu
+STU473,Mensa,Table,2025,Table Mountain,Gluten-Free,"WIYN, AZ",Mountain Table Commons,14 Meals,3.8,mensa.table@university.edu
+STU474,Volans,Fish,2026,Flying Fish,Lactose Intolerant,"HET, TX",Flying Commons,10 Meals,3.5,volans.fish@university.edu
+STU475,Hydrus,Water,2024,Water Snake,Kosher,"LBT, AZ",Water Snake Hall,Flex Plan,3.6,hydrus.water@university.edu
+STU476,Tucana,Southern,2027,Southern Toucan,Halal,"Apache Point, NM",Southern Toucan Commons,14 Meals,3.9,tucana.southern@university.edu
+STU477,Indus,River,2025,Southern River,None,"McDonald, TX",Southern River Hall,Unlimited,3.7,indus.river@university.edu
+STU478,Pavo,Southern,2026,Southern Peacock,Vegetarian,"Lowell, AZ",Southern Peacock Commons,10 Meals,3.4,pavo.southern@university.edu
+STU479,Octans,Southern,2024,Southern Octant,Vegan,"Lick, CA",Southern Octant Hall,14 Meals,3.8,octans.southern@university.edu
+STU480,Grus,Southern,2027,Southern Crane,None,"Palomar, CA",Southern Crane Commons,Flex Plan,3.5,grus.southern@university.edu
+STU481,Phoenix,Southern,2025,Southern Phoenix,Gluten-Free,"Wilson, CA",Southern Phoenix Hall,Unlimited,3.6,phoenix.southern@university.edu
+STU482,Sculptor,Southern,2026,Southern Sculptor,Lactose Intolerant,"Yerkes, WI",Southern Sculptor Commons,14 Meals,3.9,sculptor.southern@university.edu
+STU483,Fornax,Southern,2024,Southern Furnace,Kosher,"Mount Wilson, CA",Southern Furnace Hall,10 Meals,3.7,fornax.southern@university.edu
+STU484,Eridanus,Southern,2027,Southern River,Halal,"Palomar, CA",Southern River Commons,Flex Plan,3.4,eridanus.southern@university.edu
+STU485,Horologium,Southern,2025,Southern Clock,None,"Lick, CA",Southern Clock Hall,14 Meals,3.8,horologium.southern@university.edu
+STU486,Reticulum,Southern,2026,Southern Net,Vegetarian,"Keck, HI",Southern Net Commons,Unlimited,3.5,reticulum.southern@university.edu
+STU487,Dorado,Southern,2024,Southern Swordfish,Vegan,"Subaru, HI",Southern Swordfish Hall,10 Meals,3.6,dorado.southern@university.edu
+STU488,Pictor,Southern,2027,Southern Easel,None,"CFHT, HI",Southern Easel Commons,14 Meals,3.9,pictor.southern@university.edu
+STU489,Caelum,Southern,2025,Southern Chisel,Gluten-Free,"Gemini North, HI",Southern Chisel Hall,Flex Plan,3.7,caelum.southern@university.edu
+STU490,Columba,Southern,2026,Southern Dove,Lactose Intolerant,"IRTF, HI",Southern Dove Commons,Unlimited,3.4,columba.southern@university.edu
+STU491,Lepus,Southern,2024,Southern Hare,Kosher,"MMT, AZ",Southern Hare Hall,14 Meals,3.8,lepus.southern@university.edu
+STU492,Puppis,Southern,2027,Southern Stern,Halal,"WIYN, AZ",Southern Stern Commons,10 Meals,3.5,puppis.southern@university.edu
+STU493,Vela,Southern,2025,Southern Sails,None,"HET, TX",Southern Sails Hall,Flex Plan,3.6,vela.southern@university.edu
+STU494,Carina,Southern,2026,Southern Keel,Vegetarian,"LBT, AZ",Southern Keel Commons,14 Meals,3.9,carina.southern@university.edu
+STU495,Volans,Southern,2024,Southern Flying,Vegan,"Apache Point, NM",Southern Flying Hall,Unlimited,3.7,volans.southern@university.edu
+STU496,Antlia,Southern,2027,Southern Pump,None,"McDonald, TX",Southern Pump Commons,10 Meals,3.4,antlia.southern@university.edu
+STU497,Pyxis,Southern,2025,Southern Compass,Gluten-Free,"Lowell, AZ",Southern Compass Hall,14 Meals,3.8,pyxis.southern@university.edu
+STU498,Sextans,Southern,2026,Southern Sextant,Lactose Intolerant,"Lick, CA",Southern Sextant Commons,Flex Plan,3.5,sextans.southern@university.edu
+STU499,Crater,Southern,2024,Southern Cup,Kosher,"Palomar, CA",Southern Cup Hall,Unlimited,3.6,crater.southern@university.edu
+STU500,Corvus,Southern,2027,Southern Crow,Halal,"Wilson, CA",Southern Crow Commons,14 Meals,3.9,corvus.southern@university.edu
+STU501,Hydra,Southern,2025,Southern Snake,None,"Yerkes, WI",Southern Snake Hall,10 Meals,3.7,hydra.southern@university.edu
+STU502,Monoceros,Southern,2026,Southern Unicorn,Vegetarian,"Mount Wilson, CA",Southern Unicorn Commons,Flex Plan,3.4,monoceros.southern@university.edu
+STU503,Canis,Southern,2024,Southern Dog,Vegan,"Palomar, CA",Southern Dog Hall,14 Meals,3.8,canis.southern@university.edu
+STU504,Orion,Southern,2027,Southern Hunter,None,"Lick, CA",Southern Hunter Commons,Unlimited,3.5,orion.southern@university.edu
+STU505,Eridanus,Flow,2025,River Flow,Gluten-Free,"Keck, HI",River Flow Hall,10 Meals,3.6,eridanus.flow@university.edu
+STU506,Cetus,Ocean,2026,Ocean Monster,Lactose Intolerant,"Subaru, HI",Ocean Monster Commons,14 Meals,3.9,cetus.ocean@university.edu
+STU507,Sculptor,Cosmic,2024,Cosmic Artist,Kosher,"CFHT, HI",Cosmic Artist Hall,Flex Plan,3.7,sculptor.cosmic@university.edu
+STU508,Fornax,Stellar,2027,Stellar Furnace,Halal,"Gemini North, HI",Stellar Furnace Commons,Unlimited,3.4,fornax.stellar@university.edu
+STU509,Phoenix,Cosmic,2025,Cosmic Firebird,None,"IRTF, HI",Cosmic Firebird Hall,14 Meals,3.8,phoenix.cosmic@university.edu
+STU510,Grus,Stellar,2026,Stellar Crane,Vegetarian,"MMT, AZ",Stellar Crane Commons,10 Meals,3.5,grus.stellar@university.edu

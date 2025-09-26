@@ -1,0 +1,261 @@
+student_id,first_name,last_name,graduation_year,major,dietary_restrictions,hometown,residence_hall,meal_plan,gpa,email
+STU001,Emma,Johnson,2025,Computer Science,Vegetarian,"Seattle, WA",Thornton Hall,Unlimited,3.7,emma.johnson@university.edu
+STU002,Liam,Chen,2026,Biology,None,"San Francisco, CA",Morrison Tower,14 Meals,3.9,liam.chen@university.edu
+STU003,Sophia,Rodriguez,2024,Psychology,Gluten-Free,"Austin, TX",Riverside Dorms,10 Meals,3.5,sophia.rodriguez@university.edu
+STU004,Noah,Patel,2027,Engineering,Vegan,"Chicago, IL",North Campus,Unlimited,3.8,noah.patel@university.edu
+STU005,Olivia,Thompson,2025,English Literature,Lactose Intolerant,"Portland, OR",Sunset Village,14 Meals,3.6,olivia.thompson@university.edu
+STU006,Ethan,Williams,2026,Mathematics,None,"Denver, CO",Thornton Hall,Unlimited,3.4,ethan.williams@university.edu
+STU007,Ava,Brown,2024,Art History,Vegetarian,"Boston, MA",Morrison Tower,10 Meals,3.8,ava.brown@university.edu
+STU008,Mason,Davis,2027,Physics,None,"Miami, FL",Riverside Dorms,14 Meals,3.9,mason.davis@university.edu
+STU009,Isabella,Wilson,2025,Business Administration,Kosher,"New York, NY",North Campus,Unlimited,3.7,isabella.wilson@university.edu
+STU010,Lucas,Garcia,2026,Chemistry,None,"Los Angeles, CA",Sunset Village,14 Meals,3.5,lucas.garcia@university.edu
+STU011,Mia,Miller,2024,Sociology,Halal,"Houston, TX",Thornton Hall,10 Meals,3.6,mia.miller@university.edu
+STU012,Aiden,Martinez,2027,Music,Vegetarian,"Phoenix, AZ",Morrison Tower,Unlimited,3.8,aiden.martinez@university.edu
+STU013,Charlotte,Anderson,2025,Environmental Science,Vegan,"Minneapolis, MN",Riverside Dorms,14 Meals,3.9,charlotte.anderson@university.edu
+STU014,Jackson,Taylor,2026,Political Science,None,"Atlanta, GA",North Campus,Unlimited,3.4,jackson.taylor@university.edu
+STU015,Amelia,Thomas,2024,Philosophy,Gluten-Free,"Nashville, TN",Sunset Village,10 Meals,3.7,amelia.thomas@university.edu
+STU016,Logan,Hernandez,2027,Mechanical Engineering,None,"San Diego, CA",Thornton Hall,14 Meals,3.8,logan.hernandez@university.edu
+STU017,Harper,Moore,2025,Theater Arts,Lactose Intolerant,"Las Vegas, NV",Morrison Tower,Unlimited,3.5,harper.moore@university.edu
+STU018,Benjamin,Jackson,2026,Economics,None,"Detroit, MI",Riverside Dorms,14 Meals,3.6,benjamin.jackson@university.edu
+STU019,Evelyn,White,2024,Neuroscience,Vegetarian,"Baltimore, MD",North Campus,10 Meals,3.9,evelyn.white@university.edu
+STU020,Alexander,Lee,2027,Anthropology,None,"Sacramento, CA",Sunset Village,Unlimited,3.7,alexander.lee@university.edu
+STU021,Abigail,Harris,2025,Journalism,Kosher,"Cleveland, OH",Thornton Hall,14 Meals,3.4,abigail.harris@university.edu
+STU022,Michael,Clark,2026,International Relations,None,"Orlando, FL",Morrison Tower,Unlimited,3.8,michael.clark@university.edu
+STU023,Emily,Lewis,2024,Graphic Design,Vegan,"Salt Lake City, UT",Riverside Dorms,10 Meals,3.6,emily.lewis@university.edu
+STU024,William,Robinson,2027,Pre-Med,None,"Kansas City, MO",North Campus,14 Meals,3.9,william.robinson@university.edu
+STU025,Madison,Walker,2025,Statistics,Gluten-Free,"Raleigh, NC",Sunset Village,Unlimited,3.5,madison.walker@university.edu
+STU026,James,Young,2026,Film Studies,Lactose Intolerant,"Memphis, TN",Thornton Hall,14 Meals,3.7,james.young@university.edu
+STU027,Elizabeth,Allen,2024,Marketing,None,"Louisville, KY",Morrison Tower,10 Meals,3.8,elizabeth.allen@university.edu
+STU028,Henry,King,2027,Astronomy,Vegetarian,"Richmond, VA",Riverside Dorms,Unlimited,3.6,henry.king@university.edu
+STU029,Avery,Wright,2025,Social Work,Halal,"Oklahoma City, OK",North Campus,14 Meals,3.9,avery.wright@university.edu
+STU030,Sebastian,Lopez,2026,Architecture,None,"Albuquerque, NM",Sunset Village,Unlimited,3.4,sebastian.lopez@university.edu
+STU031,Sofia,Hill,2024,Dance,Kosher,"Tucson, AZ",Thornton Hall,10 Meals,3.7,sofia.hill@university.edu
+STU032,Carter,Scott,2027,Geology,None,"Fresno, CA",Morrison Tower,14 Meals,3.8,carter.scott@university.edu
+STU033,Scarlett,Green,2025,Linguistics,Vegan,"Long Beach, CA",Riverside Dorms,Unlimited,3.5,scarlett.green@university.edu
+STU034,Owen,Adams,2026,Criminal Justice,None,"Mesa, AZ",North Campus,14 Meals,3.6,owen.adams@university.edu
+STU035,Grace,Baker,2024,Public Health,Gluten-Free,"Virginia Beach, VA",Sunset Village,10 Meals,3.9,grace.baker@university.edu
+STU036,Luke,Gonzalez,2027,Agricultural Science,Lactose Intolerant,"Colorado Springs, CO",Thornton Hall,Unlimited,3.7,luke.gonzalez@university.edu
+STU037,Chloe,Nelson,2025,Fashion Design,None,"Omaha, NE",Morrison Tower,14 Meals,3.4,chloe.nelson@university.edu
+STU038,Gabriel,Carter,2026,Information Technology,Vegetarian,"Miami, FL",Riverside Dorms,Unlimited,3.8,gabriel.carter@university.edu
+STU039,Lily,Mitchell,2024,Library Science,None,"Tampa, FL",North Campus,10 Meals,3.6,lily.mitchell@university.edu
+STU040,Jayden,Perez,2027,Exercise Science,Halal,"Honolulu, HI",Sunset Village,14 Meals,3.9,jayden.perez@university.edu
+STU041,Zoey,Roberts,2025,Marine Biology,Kosher,"Anchorage, AK",Thornton Hall,Unlimited,3.5,zoey.roberts@university.edu
+STU042,Nolan,Turner,2026,Urban Planning,Vegan,"Portland, ME",Morrison Tower,14 Meals,3.7,nolan.turner@university.edu
+STU043,Layla,Phillips,2024,Women's Studies,None,"Burlington, VT",Riverside Dorms,10 Meals,3.8,layla.phillips@university.edu
+STU044,Ian,Campbell,2027,Robotics,Gluten-Free,"Manchester, NH",North Campus,Unlimited,3.6,ian.campbell@university.edu
+STU045,Aubrey,Parker,2025,Supply Chain Management,Lactose Intolerant,"Providence, RI",Sunset Village,14 Meals,3.9,aubrey.parker@university.edu
+STU046,Connor,Evans,2026,Sports Management,None,"Hartford, CT",Thornton Hall,Unlimited,3.4,connor.evans@university.edu
+STU047,Hannah,Edwards,2024,Nutrition,Vegetarian,"Albany, NY",Morrison Tower,10 Meals,3.7,hannah.edwards@university.edu
+STU048,Julian,Collins,2027,Computer Engineering,None,"Syracuse, NY",Riverside Dorms,14 Meals,3.8,julian.collins@university.edu
+STU049,Natalie,Stewart,2025,Communication,Halal,"Buffalo, NY",North Campus,Unlimited,3.5,natalie.stewart@university.edu
+STU050,Aaron,Sanchez,2026,Game Design,None,"Rochester, NY",Sunset Village,14 Meals,3.6,aaron.sanchez@university.edu
+STU051,Leah,Morris,2024,Forensic Science,Kosher,"Pittsburgh, PA",Thornton Hall,10 Meals,3.9,leah.morris@university.edu
+STU052,Christian,Rogers,2027,Biomedical Engineering,Vegan,"Philadelphia, PA",Morrison Tower,Unlimited,3.7,christian.rogers@university.edu
+STU053,Maya,Reed,2025,International Business,None,"Trenton, NJ",Riverside Dorms,14 Meals,3.4,maya.reed@university.edu
+STU054,Josiah,Cook,2026,Meteorology,Gluten-Free,"Dover, DE",North Campus,Unlimited,3.8,josiah.cook@university.edu
+STU055,Addison,Bailey,2024,Human Resources,Lactose Intolerant,"Annapolis, MD",Sunset Village,10 Meals,3.6,addison.bailey@university.edu
+STU056,Caleb,Rivera,2027,Paleontology,None,"Washington, DC",Thornton Hall,14 Meals,3.9,caleb.rivera@university.edu
+STU057,Anna,Cooper,2025,Data Science,Vegetarian,"Richmond, VA",Morrison Tower,Unlimited,3.5,anna.cooper@university.edu
+STU058,Eli,Richardson,2026,Culinary Arts,None,"Charlotte, NC",Riverside Dorms,14 Meals,3.7,eli.richardson@university.edu
+STU059,Bella,Cox,2024,Event Planning,Halal,"Charleston, SC",North Campus,10 Meals,3.8,bella.cox@university.edu
+STU060,Isaiah,Howard,2027,Renewable Energy,None,"Columbia, SC",Sunset Village,Unlimited,3.6,isaiah.howard@university.edu
+STU061,Claire,Ward,2025,Creative Writing,Kosher,"Savannah, GA",Thornton Hall,14 Meals,3.9,claire.ward@university.edu
+STU062,Jeremiah,Torres,2026,Aerospace Engineering,Vegan,"Jacksonville, FL",Morrison Tower,Unlimited,3.4,jeremiah.torres@university.edu
+STU063,Samantha,Peterson,2024,Real Estate,None,"Tallahassee, FL",Riverside Dorms,10 Meals,3.7,samantha.peterson@university.edu
+STU064,Thomas,Gray,2027,Veterinary Science,Gluten-Free,"Gainesville, FL",North Campus,14 Meals,3.8,thomas.gray@university.edu
+STU065,Victoria,Ramirez,2025,Photography,Lactose Intolerant,"Naples, FL",Sunset Village,Unlimited,3.5,victoria.ramirez@university.edu
+STU066,Charles,James,2026,Hotel Management,None,"Key West, FL",Thornton Hall,14 Meals,3.6,charles.james@university.edu
+STU067,Penelope,Watson,2024,Archaeology,Vegetarian,"Mobile, AL",Morrison Tower,10 Meals,3.9,penelope.watson@university.edu
+STU068,Christopher,Brooks,2027,Financial Planning,None,"Birmingham, AL",Riverside Dorms,Unlimited,3.7,christopher.brooks@university.edu
+STU069,Riley,Kelly,2025,Public Relations,Halal,"Huntsville, AL",North Campus,14 Meals,3.4,riley.kelly@university.edu
+STU070,Mateo,Sanders,2026,Nuclear Engineering,None,"Montgomery, AL",Sunset Village,Unlimited,3.8,mateo.sanders@university.edu
+STU071,Mackenzie,Price,2024,Occupational Therapy,Kosher,"Jackson, MS",Thornton Hall,10 Meals,3.6,mackenzie.price@university.edu
+STU072,Dominic,Bennett,2027,Industrial Design,Vegan,"Biloxi, MS",Morrison Tower,14 Meals,3.9,dominic.bennett@university.edu
+STU073,Kennedy,Wood,2025,Hospitality,None,"New Orleans, LA",Riverside Dorms,Unlimited,3.5,kennedy.wood@university.edu
+STU074,Adrian,Barnes,2026,Wildlife Biology,Gluten-Free,"Baton Rouge, LA",North Campus,14 Meters,3.7,adrian.barnes@university.edu
+STU075,Skylar,Ross,2024,Fashion Merchandising,Lactose Intolerant,"Shreveport, LA",Sunset Village,10 Meals,3.8,skylar.ross@university.edu
+STU076,Jaxon,Henderson,2027,Cybersecurity,None,"Little Rock, AR",Thornton Hall,Unlimited,3.6,jaxon.henderson@university.edu
+STU077,Audrey,Coleman,2025,Physical Therapy,Vegetarian,"Fort Smith, AR",Morrison Tower,14 Meals,3.9,audrey.coleman@university.edu
+STU078,Brayden,Jenkins,2026,Broadcast Journalism,None,"Memphis, TN",Riverside Dorms,Unlimited,3.4,brayden.jenkins@university.edu
+STU079,Sadie,Perry,2024,Textile Design,Halal,"Nashville, TN",North Campus,10 Meals,3.7,sadie.perry@university.edu
+STU080,Cooper,Powell,2027,Software Engineering,None,"Knoxville, TN",Sunset Village,14 Meals,3.8,cooper.powell@university.edu
+STU081,Iris,Long,2025,Clinical Psychology,Kosher,"Chattanooga, TN",Thornton Hall,Unlimited,3.5,iris.long@university.edu
+STU082,Parker,Patterson,2026,Logistics,Vegan,"Clarksville, TN",Morrison Tower,14 Meals,3.6,parker.patterson@university.edu
+STU083,Violet,Hughes,2024,Interior Design,None,"Johnson City, TN",Riverside Dorms,10 Meals,3.9,violet.hughes@university.edu
+STU084,Hudson,Flores,2027,Petroleum Engineering,Gluten-Free,"Lexington, KY",North Campus,Unlimited,3.7,hudson.flores@university.edu
+STU085,Aurora,Washington,2025,Gender Studies,Lactose Intolerant,"Louisville, KY",Sunset Village,14 Meals,3.4,aurora.washington@university.edu
+STU086,Easton,Butler,2026,Operations Research,None,"Bowling Green, KY",Thornton Hall,Unlimited,3.8,easton.butler@university.edu
+STU087,Nova,Simmons,2024,Speech Therapy,Vegetarian,"Owensboro, KY",Morrison Tower,10 Meals,3.6,nova.simmons@university.edu
+STU088,Roman,Foster,2027,Materials Science,None,"Paducah, KY",Riverside Dorms,14 Meals,3.9,roman.foster@university.edu
+STU089,Luna,Gonzales,2025,Comparative Literature,Halal,"Cincinnati, OH",North Campus,Unlimited,3.5,luna.gonzales@university.edu
+STU090,Greyson,Bryant,2026,Actuarial Science,None,"Columbus, OH",Sunset Village,14 Meals,3.7,greyson.bryant@university.edu
+STU091,Hazel,Alexander,2024,Museum Studies,Kosher,"Cleveland, OH",Thornton Hall,10 Meals,3.8,hazel.alexander@university.edu
+STU092,Maverick,Russell,2027,Chemical Engineering,Vegan,"Toledo, OH",Morrison Tower,Unlimited,3.6,maverick.russell@university.edu
+STU093,Willow,Griffin,2025,Sustainable Agriculture,None,"Akron, OH",Riverside Dorms,14 Meals,3.9,willow.griffin@university.edu
+STU094,Axel,Diaz,2026,Digital Marketing,Gluten-Free,"Dayton, OH",North Campus,Unlimited,3.4,axel.diaz@university.edu
+STU095,Kinsley,Hayes,2024,Conflict Resolution,Lactose Intolerant,"Canton, OH",Sunset Village,10 Meals,3.7,kinsley.hayes@university.edu
+STU096,Declan,Myers,2027,Nanotechnology,None,"Youngstown, OH",Thornton Hall,14 Meals,3.8,declan.myers@university.edu
+STU097,Genesis,Ford,2025,Health Administration,Vegetarian,"Indianapolis, IN",Morrison Tower,Unlimited,3.5,genesis.ford@university.edu
+STU098,Rowan,Hamilton,2026,Construction Management,None,"Fort Wayne, IN",Riverside Dorms,14 Meals,3.6,rowan.hamilton@university.edu
+STU099,Adalynn,Graham,2024,Art Therapy,Halal,"Evansville, IN",North Campus,10 Meals,3.9,adalynn.graham@university.edu
+STU100,Knox,Sullivan,2027,Electrical Engineering,None,"South Bend, IN",Sunset Village,Unlimited,3.7,knox.sullivan@university.edu
+STU101,Serenity,Wallace,2025,Peace Studies,Kosher,"Gary, IN",Thornton Hall,14 Meals,3.4,serenity.wallace@university.edu
+STU102,Finn,Woods,2026,Quality Assurance,Vegan,"Bloomington, IN",Morrison Tower,Unlimited,3.8,finn.woods@university.edu
+STU103,Paisley,Cole,2024,Gender Economics,None,"Muncie, IN",Riverside Dorms,10 Meals,3.6,paisley.cole@university.edu
+STU104,Enzo,West,2027,Sustainable Design,Gluten-Free,"Lafayette, IN",North Campus,14 Meals,3.9,enzo.west@university.edu
+STU105,Josephine,Jordan,2025,Cognitive Science,Lactose Intolerant,"Terre Haute, IN",Sunset Village,Unlimited,3.5,josephine.jordan@university.edu
+STU106,Messiah,Owens,2026,Green Technology,None,"Anderson, IN",Thornton Hall,14 Meals,3.7,messiah.owens@university.edu
+STU107,Allison,Reynolds,2024,Digital Humanities,Vegetarian,"Richmond, IN",Morrison Tower,10 Meals,3.8,allison.reynolds@university.edu
+STU108,Rhett,Fisher,2027,Space Science,None,"Kokomo, IN",Riverside Dorms,Unlimited,3.6,rhett.fisher@university.edu
+STU109,Oakley,Ellis,2025,Community Development,Halal,"Michigan City, IN",North Campus,14 Meals,3.9,oakley.ellis@university.edu
+STU110,Ryder,Harrison,2026,Wind Energy,None,"Elkhart, IN",Sunset Village,Unlimited,3.4,ryder.harrison@university.edu
+STU111,Ember,Gibson,2024,Disaster Management,Kosher,"Detroit, MI",Thornton Hall,10 Meals,3.7,ember.gibson@university.edu
+STU112,Zion,McDonald,2027,Quantum Physics,Vegan,"Grand Rapids, MI",Morrison Tower,14 Meals,3.8,zion.mcdonald@university.edu
+STU113,Melody,Cruz,2025,Educational Technology,None,"Warren, MI",Riverside Dorms,Unlimited,3.5,melody.cruz@university.edu
+STU114,Cash,Marshall,2026,Bioengineering,Gluten-Free,"Sterling Heights, MI",North Campus,14 Meals,3.6,cash.marshall@university.edu
+STU115,Sage,Ortiz,2024,Wellness Coaching,Lactose Intolerant,"Lansing, MI",Sunset Village,10 Meals,3.9,sage.ortiz@university.edu
+STU116,Atlas,Gomez,2027,Ocean Engineering,None,"Ann Arbor, MI",Thornton Hall,Unlimited,3.7,atlas.gomez@university.edu
+STU117,Juniper,Murray,2025,Social Innovation,Vegetarian,"Flint, MI",Morrison Tower,14 Meals,3.4,juniper.murray@university.edu
+STU118,Phoenix,Freeman,2026,Automation Technology,None,"Dearborn, MI",Riverside Dorms,Unlimited,3.8,phoenix.freeman@university.edu
+STU119,Winter,Wells,2024,Global Health,Halal,"Livonia, MI",North Campus,10 Meals,3.6,winter.wells@university.edu
+STU120,Orion,Webb,2027,Precision Agriculture,None,"Troy, MI",Sunset Village,14 Meals,3.9,orion.webb@university.edu
+STU121,River,Simpson,2025,Environmental Law,Kosher,"Westland, MI",Thornton Hall,Unlimited,3.5,river.simpson@university.edu
+STU122,Sage,Stevens,2026,Biostatistics,Vegan,"Canton, MI",Morrison Tower,14 Meals,3.7,sage.stevens@university.edu
+STU123,Wren,Tucker,2024,Digital Media,None,"Rochester, MI",Riverside Dorms,10 Meals,3.8,wren.tucker@university.edu
+STU124,Zara,Porter,2027,Therapeutic Recreation,Gluten-Free,"Farmington Hills, MI",North Campus,Unlimited,3.6,zara.porter@university.edu
+STU125,Felix,Hunter,2025,Urban Studies,Lactose Intolerant,"Novi, MI",Sunset Village,14 Meals,3.9,felix.hunter@university.edu
+STU126,Luna,Hicks,2026,Renewable Resources,None,"Royal Oak, MI",Thornton Hall,Unlimited,3.4,luna.hicks@university.edu
+STU127,Jasper,Crawford,2024,Sports Psychology,Vegetarian,"Pontiac, MI",Morrison Tower,10 Meals,3.7,jasper.crawford@university.edu
+STU128,Nova,Henry,2027,Biotechnology,None,"Southfield, MI",Riverside Dorms,14 Meals,3.8,nova.henry@university.edu
+STU129,Kai,Boyd,2025,International Development,Halal,"Oak Park, MI",North Campus,Unlimited,3.5,kai.boyd@university.edu
+STU130,River,Mason,2026,Information Systems,None,"Ferndale, MI",Sunset Village,14 Meals,3.6,river.mason@university.edu
+STU131,Aspen,Morales,2024,Health Informatics,Kosher,"Hazel Park, MI",Thornton Hall,10 Meals,3.9,aspen.morales@university.edu
+STU132,Atlas,Mendoza,2027,Solar Engineering,Vegan,"Madison Heights, MI",Morrison Tower,Unlimited,3.7,atlas.mendoza@university.edu
+STU133,Willow,Bowman,2025,Media Studies,None,"Berkley, MI",Riverside Dorms,14 Meals,3.4,willow.bowman@university.edu
+STU134,Phoenix,Hansen,2026,Public Policy,Gluten-Free,"Clawson, MI",North Campus,Unlimited,3.8,phoenix.hansen@university.edu
+STU135,Sage,Knight,2024,Community Health,Lactose Intolerant,"Pleasant Ridge, MI",Sunset Village,10 Meals,3.6,sage.knight@university.edu
+STU136,Ocean,Valdez,2027,Computational Biology,None,"Huntington Woods, MI",Thornton Hall,14 Meals,3.9,ocean.valdez@university.edu
+STU137,Sky,Holland,2025,Cultural Anthropology,Vegetarian,"Birmingham, MI",Morrison Tower,Unlimited,3.5,sky.holland@university.edu
+STU138,Reed,Gilbert,2026,Enterprise Systems,None,"Bloomfield Hills, MI",Riverside Dorms,14 Meals,3.7,reed.gilbert@university.edu
+STU139,Vale,Fleming,2024,Disaster Studies,Halal,"West Bloomfield, MI",North Campus,10 Meals,3.8,vale.fleming@university.edu
+STU140,Cruz,Mann,2027,Advanced Materials,None,"Keego Harbor, MI",Sunset Village,Unlimited,3.6,cruz.mann@university.edu
+STU141,Storm,Washington,2025,Global Commerce,Kosher,"Orchard Lake, MI",Thornton Hall,14 Meals,3.9,storm.washington@university.edu
+STU142,Grove,Garrett,2026,Precision Medicine,Vegan,"Sylvan Lake, MI",Morrison Tower,Unlimited,3.4,grove.garrett@university.edu
+STU143,Blaze,Bradley,2024,Virtual Reality,None,"Lathrup Village, MI",Riverside Dorms,10 Meals,3.7,blaze.bradley@university.edu
+STU144,Echo,Burke,2027,Sustainable Tourism,Gluten-Free,"Beverly Hills, MI",North Campus,14 Meals,3.8,echo.burke@university.edu
+STU145,Rain,Dixon,2025,Food Science,Lactose Intolerant,"Bingham Farms, MI",Sunset Village,Unlimited,3.5,rain.dixon@university.edu
+STU146,Frost,Hoffman,2026,Agricultural Technology,None,"Franklin, MI",Thornton Hall,14 Meals,3.6,frost.hoffman@university.edu
+STU147,Ember,Gray,2024,Conflict Studies,Vegetarian,"Beville, MI",Morrison Tower,10 Meals,3.9,ember.gray@university.edu
+STU148,Vale,Bowman,2027,Marine Engineering,None,"Commerce Township, MI",Riverside Dorms,Unlimited,3.7,vale.bowman@university.edu
+STU149,Sage,Duncan,2025,Digital Arts,Halal,"Walled Lake, MI",North Campus,14 Meals,3.4,sage.duncan@university.edu
+STU150,River,Brady,2026,Systems Engineering,None,"Wolverine Lake, MI",Sunset Village,Unlimited,3.8,river.brady@university.edu
+STU151,Luna,Gregory,2024,Health Policy,Kosher,"Union Lake, MI",Thornton Hall,10 Meals,3.6,luna.gregory@university.edu
+STU152,Atlas,Reid,2027,Robotics Engineering,Vegan,"White Lake, MI",Morrison Tower,14 Meals,3.9,atlas.reid@university.edu
+STU153,Phoenix,Warren,2025,Social Entrepreneurship,None,"Highland, MI",Riverside Dorms,Unlimited,3.5,phoenix.warren@university.edu
+STU154,Storm,Burke,2026,Quantum Computing,Gluten-Free,"Milford, MI",North Campus,14 Meals,3.7,storm.burke@university.edu
+STU155,Ocean,Garrett,2024,Wellness Studies,Lactose Intolerant,"South Lyon, MI",Sunset Village,10 Meals,3.8,ocean.garrett@university.edu
+STU156,Reed,Stanley,2027,Green Chemistry,None,"Northville, MI",Thornton Hall,Unlimited,3.6,reed.stanley@university.edu
+STU157,Vale,Hopkins,2025,Digital Forensics,Vegetarian,"Plymouth, MI",Morrison Tower,14 Meals,3.9,vale.hopkins@university.edu
+STU158,Sage,Rice,2026,Space Technology,None,"Canton, MI",Riverside Dorms,Unlimited,3.4,sage.rice@university.edu
+STU159,River,Palmer,2024,Therapeutic Arts,Halal,"Belleville, MI",North Campus,10 Meals,3.7,river.palmer@university.edu
+STU160,Luna,Jordan,2027,Sustainable Energy,None,"Van Buren Township, MI",Sunset Village,14 Meals,3.8,luna.jordan@university.edu
+STU161,Atlas,Curtis,2025,Health Technology,Kosher,"Romulus, MI",Thornton Hall,Unlimited,3.5,atlas.curtis@university.edu
+STU162,Phoenix,Perry,2026,Environmental Design,Vegan,"Taylor, MI",Morrison Tower,14 Meals,3.6,phoenix.perry@university.edu
+STU163,Storm,Powell,2024,Community Planning,None,"Lincoln Park, MI",Riverside Dorms,10 Meals,3.9,storm.powell@university.edu
+STU164,Ocean,Long,2027,Data Analytics,Gluten-Free,"Wyandotte, MI",North Campus,Unlimited,3.7,ocean.long@university.edu
+STU165,Reed,Patterson,2025,Urban Agriculture,Lactose Intolerant,"Southgate, MI",Sunset Village,14 Meals,3.4,reed.patterson@university.edu
+STU166,Vale,Hughes,2026,Biomechanics,None,"Riverview, MI",Thornton Hall,Unlimited,3.8,vale.hughes@university.edu
+STU167,Sage,Flores,2024,Digital Health,Vegetarian,"Trenton, MI",Morrison Tower,10 Meals,3.6,sage.flores@university.edu
+STU168,River,Washington,2027,Clean Technology,None,"Grosse Ile, MI",Riverside Dorms,14 Meals,3.9,river.washington@university.edu
+STU169,Luna,Butler,2025,Social Design,Halal,"Woodhaven, MI",North Campus,Unlimited,3.5,luna.butler@university.edu
+STU170,Atlas,Simmons,2026,Precision Farming,None,"Flat Rock, MI",Sunset Village,14 Meals,3.7,atlas.simmons@university.edu
+STU171,Phoenix,Foster,2024,Health Economics,Kosher,"Carleton, MI",Thornton Hall,10 Meals,3.8,phoenix.foster@university.edu
+STU172,Storm,Gonzales,2027,Energy Systems,Vegan,"Monroe, MI",Morrison Tower,Unlimited,3.6,storm.gonzales@university.edu
+STU173,Ocean,Bryant,2025,Digital Innovation,None,"Dundee, MI",Riverside Dorms,14 Meals,3.9,ocean.bryant@university.edu
+STU174,Reed,Alexander,2026,Sustainable Business,Gluten-Free,"Milan, MI",North Campus,Unlimited,3.4,reed.alexander@university.edu
+STU175,Vale,Russell,2024,Therapeutic Technology,Lactose Intolerant,"Saline, MI",Sunset Village,10 Meals,3.7,vale.russell@university.edu
+STU176,Sage,Griffin,2027,Environmental Technology,None,"Ypsilanti, MI",Thornton Hall,14 Meals,3.8,sage.griffin@university.edu
+STU177,River,Diaz,2025,Health Informatics,Vegetarian,"Belleville, MI",Morrison Tower,Unlimited,3.5,river.diaz@university.edu
+STU178,Luna,Hayes,2026,Smart Cities,None,"Wayne, MI",Riverside Dorms,14 Meals,3.6,luna.hayes@university.edu
+STU179,Atlas,Myers,2024,Bio-Innovation,Halal,"Inkster, MI",North Campus,10 Meals,3.9,atlas.myers@university.edu
+STU180,Phoenix,Ford,2027,Climate Science,None,"Garden City, MI",Sunset Village,Unlimited,3.7,phoenix.ford@university.edu
+STU181,Storm,Hamilton,2025,Digital Wellness,Kosher,"Westland, MI",Thornton Hall,14 Meals,3.4,storm.hamilton@university.edu
+STU182,Ocean,Graham,2026,Renewable Technology,Vegan,"Livonia, MI",Morrison Tower,Unlimited,3.8,ocean.graham@university.edu
+STU183,Reed,Sullivan,2024,Health Innovation,None,"Redford, MI",Riverside Dorms,10 Meals,3.6,reed.sullivan@university.edu
+STU184,Vale,Wallace,2027,Environmental Innovation,Gluten-Free,"Detroit, MI",North Campus,14 Meals,3.9,vale.wallace@university.edu
+STU185,Sage,Woods,2025,Digital Sustainability,Lactose Intolerant,"Highland Park, MI",Sunset Village,Unlimited,3.5,sage.woods@university.edu
+STU186,River,Cole,2026,Green Innovation,None,"Hamtramck, MI",Thornton Hall,14 Meals,3.7,river.cole@university.edu
+STU187,Luna,West,2024,Health Systems,Vegetarian,"Grosse Pointe, MI",Morrison Tower,10 Meals,3.8,luna.west@university.edu
+STU188,Atlas,Jordan,2027,Sustainable Innovation,None,"Grosse Pointe Park, MI",Riverside Dorms,Unlimited,3.6,atlas.jordan@university.edu
+STU189,Phoenix,Owens,2025,Environmental Systems,Halal,"Grosse Pointe Woods, MI",North Campus,14 Meals,3.9,phoenix.owens@university.edu
+STU190,Storm,Reynolds,2026,Clean Innovation,None,"Grosse Pointe Farms, MI",Sunset Village,Unlimited,3.4,storm.reynolds@university.edu
+STU191,Ocean,Fisher,2024,Digital Medicine,Kosher,"Harper Woods, MI",Thornton Hall,10 Meals,3.7,ocean.fisher@university.edu
+STU192,Reed,Ellis,2027,Bio-Technology,Vegan,"East Detroit, MI",Morrison Tower,14 Meals,3.8,reed.ellis@university.edu
+STU193,Vale,Harrison,2025,Health Technology,None,"Roseville, MI",Riverside Dorms,Unlimited,3.5,vale.harrison@university.edu
+STU194,Sage,Gibson,2026,Environmental Health,Gluten-Free,"Eastpointe, MI",North Campus,14 Meals,3.6,sage.gibson@university.edu
+STU195,River,McDonald,2024,Digital Therapy,Lactose Intolerant,"Fraser, MI",Sunset Village,10 Meals,3.9,river.mcdonald@university.edu
+STU196,Luna,Cruz,2027,Green Health,None,"Sterling Heights, MI",Thornton Hall,Unlimited,3.7,luna.cruz@university.edu
+STU197,Atlas,Marshall,2025,Sustainable Health,Vegetarian,"Utica, MI",Morrison Tower,14 Meals,3.4,atlas.marshall@university.edu
+STU198,Phoenix,Ortiz,2026,Environmental Wellness,None,"Shelby Township, MI",Riverside Dorms,Unlimited,3.8,phoenix.ortiz@university.edu
+STU199,Storm,Gomez,2024,Health Innovation,Halal,"Macomb, MI",North Campus,10 Meals,3.6,storm.gomez@university.edu
+STU200,Ocean,Murray,2027,Digital Health,None,"New Baltimore, MI",Sunset Village,14 Meals,3.9,ocean.murray@university.edu
+STU201,Reed,Freeman,2025,Bio-Health,Kosher,"Mount Clemens, MI",Thornton Hall,Unlimited,3.5,reed.freeman@university.edu
+STU202,Vale,Wells,2026,Environmental Medicine,Vegan,"Clinton Township, MI",Morrison Tower,14 Meals,3.7,vale.wells@university.edu
+STU203,Sage,Webb,2024,Health Systems,None,"Harrison Township, MI",Riverside Dorms,10 Meals,3.8,sage.webb@university.edu
+STU204,River,Simpson,2027,Green Medicine,Gluten-Free,"St. Clair Shores, MI",North Campus,Unlimited,3.6,river.simpson@university.edu
+STU205,Luna,Stevens,2025,Digital Wellness,Lactose Intolerant,"Eastpointe, MI",Sunset Village,14 Meals,3.9,luna.stevens@university.edu
+STU206,Atlas,Tucker,2026,Sustainable Medicine,None,"Warren, MI",Thornton Hall,Unlimited,3.4,atlas.tucker@university.edu
+STU207,Phoenix,Porter,2024,Environmental Health,Vegetarian,"Center Line, MI",Morrison Tower,10 Meals,3.7,phoenix.porter@university.edu
+STU208,Storm,Hunter,2027,Health Innovation,None,"Hazel Park, MI",Riverside Dorms,14 Meals,3.8,storm.hunter@university.edu
+STU209,Ocean,Hicks,2025,Digital Medicine,Halal,"Madison Heights, MI",North Campus,Unlimited,3.5,ocean.hicks@university.edu
+STU210,Reed,Crawford,2026,Bio-Wellness,None,"Royal Oak, MI",Sunset Village,14 Meals,3.6,reed.crawford@university.edu
+STU211,Vale,Henry,2024,Green Health,Kosher,"Birmingham, MI",Thornton Hall,10 Meals,3.9,vale.henry@university.edu
+STU212,Sage,Boyd,2027,Sustainable Wellness,Vegan,"Bloomfield Hills, MI",Morrison Tower,Unlimited,3.7,sage.boyd@university.edu
+STU213,River,Mason,2025,Environmental Medicine,None,"Troy, MI",Riverside Dorms,14 Meals,3.4,river.mason@university.edu
+STU214,Luna,Morales,2026,Health Technology,Gluten-Free,"Rochester, MI",North Campus,Unlimited,3.8,luna.morales@university.edu
+STU215,Atlas,Mendoza,2024,Digital Health,Lactose Intolerant,"Rochester Hills, MI",Sunset Village,10 Meals,3.6,atlas.mendoza@university.edu
+STU216,Phoenix,Bowman,2027,Bio-Innovation,None,"Auburn Hills, MI",Thornton Hall,14 Meals,3.9,phoenix.bowman@university.edu
+STU217,Storm,Hansen,2025,Green Technology,Vegetarian,"Pontiac, MI",Morrison Tower,Unlimited,3.5,storm.hansen@university.edu
+STU218,Ocean,Knight,2026,Sustainable Technology,None,"Lake Angelus, MI",Riverside Dorms,14 Meals,3.7,ocean.knight@university.edu
+STU219,Reed,Valdez,2024,Environmental Technology,Halal,"Waterford, MI",North Campus,10 Meals,3.8,reed.valdez@university.edu
+STU220,Vale,Holland,2027,Health Technology,None,"White Lake, MI",Sunset Village,Unlimited,3.6,vale.holland@university.edu
+STU221,Sage,Gilbert,2025,Digital Innovation,Kosher,"Highland, MI",Thornton Hall,14 Meals,3.9,sage.gilbert@university.edu
+STU222,River,Fleming,2026,Bio-Technology,Vegan,"Milford, MI",Morrison Tower,Unlimited,3.4,river.fleming@university.edu
+STU223,Luna,Mann,2024,Green Innovation,None,"South Lyon, MI",Riverside Dorms,10 Meals,3.7,luna.mann@university.edu
+STU224,Atlas,Washington,2027,Sustainable Innovation,Gluten-Free,"Lyon Township, MI",North Campus,14 Meals,3.8,atlas.washington@university.edu
+STU225,Phoenix,Garrett,2025,Environmental Innovation,Lactose Intolerant,"New Hudson, MI",Sunset Village,Unlimited,3.5,phoenix.garrett@university.edu
+STU226,Storm,Bradley,2026,Health Innovation,None,"Wixom, MI",Thornton Hall,14 Meals,3.6,storm.bradley@university.edu
+STU227,Ocean,Burke,2024,Digital Technology,Vegetarian,"Commerce Township, MI",Morrison Tower,10 Meals,3.9,ocean.burke@university.edu
+STU228,Reed,Dixon,2027,Bio-Innovation,None,"Walled Lake, MI",Riverside Dorms,Unlimited,3.7,reed.dixon@university.edu
+STU229,Vale,Hoffman,2025,Green Technology,Halal,"Wolverine Lake, MI",North Campus,14 Meals,3.4,vale.hoffman@university.edu
+STU230,Sage,Gray,2026,Sustainable Technology,None,"Union Lake, MI",Sunset Village,Unlimited,3.8,sage.gray@university.edu
+STU231,River,Duncan,2024,Environmental Technology,Kosher,"Keego Harbor, MI",Thornton Hall,10 Meals,3.6,river.duncan@university.edu
+STU232,Luna,Brady,2027,Health Technology,Vegan,"Orchard Lake, MI",Morrison Tower,14 Meals,3.9,luna.brady@university.edu
+STU233,Atlas,Gregory,2025,Digital Innovation,None,"Sylvan Lake, MI",Riverside Dorms,Unlimited,3.5,atlas.gregory@university.edu
+STU234,Phoenix,Reid,2026,Bio-Technology,Gluten-Free,"Lathrup Village, MI",North Campus,14 Meals,3.7,phoenix.reid@university.edu
+STU235,Storm,Warren,2024,Green Innovation,Lactose Intolerant,"Southfield, MI",Sunset Village,10 Meals,3.8,storm.warren@university.edu
+STU236,Ocean,Stanley,2027,Sustainable Innovation,None,"Oak Park, MI",Thornton Hall,Unlimited,3.6,ocean.stanley@university.edu
+STU237,Reed,Hopkins,2025,Environmental Innovation,Vegetarian,"Ferndale, MI",Morrison Tower,14 Meals,3.9,reed.hopkins@university.edu
+STU238,Vale,Rice,2026,Health Innovation,None,"Pleasant Ridge, MI",Riverside Dorms,Unlimited,3.4,vale.rice@university.edu
+STU239,Sage,Palmer,2024,Digital Technology,Halal,"Huntington Woods, MI",North Campus,10 Meals,3.7,sage.palmer@university.edu
+STU240,River,Curtis,2027,Bio-Innovation,None,"Berkley, MI",Sunset Village,14 Meals,3.8,river.curtis@university.edu
+STU241,Riley,Martinez,2026,Business Administration,None,"Jacksonville, FL",Riverside Dorms,14 Meals,3.5,riley.martinez@university.edu
+STU242,Mia,Clark,2025,Film Studies,Halal,"Fort Worth, TX",Riverside Dorms,Unlimited,3.1,mia.clark@university.edu
+STU243,David,Nguyen,2026,Graphic Design,Vegan,"Chicago, IL",Sunset Village,14 Meals,2.6,david.nguyen@university.edu
+STU244,Aria,Robinson,2024,Computer Science,Vegan,"Colorado Springs, CO",Morrison Tower,Unlimited,3.7,aria.robinson@university.edu
+STU245,Maya,Torres,2026,Journalism,Vegan,"Chicago, IL",Sunset Village,14 Meals,2.8,maya.torres@university.edu
+STU246,Sebastian,Young,2027,Physics,Lactose Intolerant,"Denver, CO",Thornton Hall,10 Meals,3.3,sebastian.young@university.edu
+STU247,Olivia,Lopez,2025,Psychology,Vegetarian,"San Francisco, CA",North Campus,Unlimited,3.6,olivia.lopez@university.edu
+STU248,Lucas,Rodriguez,2024,Engineering,None,"Houston, TX",Morrison Tower,14 Meals,3.9,lucas.rodriguez@university.edu
+STU249,Emma,Garcia,2026,Biology,Gluten-Free,"Phoenix, AZ",Sunset Village,10 Meals,3.4,emma.garcia@university.edu
+STU250,Noah,Hernandez,2027,Mathematics,None,"Los Angeles, CA",Riverside Dorms,Unlimited,3.2,noah.hernandez@university.edu
+STU251,Luke,Robinson,2024,Civil Engineering,Lactose Intolerant,"Philadelphia, PA",Sunset Village,14 Meals,3.1,luke.robinson@university.edu
+STU252,Evelyn,Baker,2026,Anthropology,Kosher,"Columbus, OH",Morrison Tower,Unlimited,3.2,evelyn.baker@university.edu
+STU253,Henry,Davis,2026,Journalism,Gluten-Free,"Jacksonville, FL",North Campus,Unlimited,3.2,henry.davis@university.edu
+STU254,Aria,Wilson,2027,Theater Arts,None,"San Francisco, CA",Sunset Village,10 Meals,3.8,aria.wilson@university.edu
+STU255,Owen,Martinez,2025,Computer Science,Vegan,"Austin, TX",Thornton Hall,Unlimited,2.9,owen.martinez@university.edu
+STU256,Lily,Anderson,2024,Biology,None,"Denver, CO",Morrison Tower,14 Meals,3.5,lily.anderson@university.edu
+STU257,Jackson,Thomas,2026,Psychology,Halal,"Houston, TX",North Campus,10 Meals,3.7,jackson.thomas@university.edu
+STU258,Mia,Taylor,2027,Engineering,Vegetarian,"Phoenix, AZ",Riverside Dorms,Unlimited,3.3,mia.taylor@university.edu
+STU259,Alexander,Moore,2025,Business Administration,None,"Chicago, IL",Sunset Village,14 Meals,3.6,alexander.moore@university.edu
+STU260,Emma,Jackson,2024,English Literature,Gluten-Free,"Los Angeles, CA",Thornton Hall,10 Meals,3.1,emma.jackson@university.edu

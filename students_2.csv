@@ -1,0 +1,241 @@
+student_id,first_name,last_name,graduation_year,major,dietary_restrictions,hometown,residence_hall,meal_plan,gpa,email
+STU511,Sage,Riverstone,2025,Biomedical Engineering,None,"Portland, OR",Tech Hub,Flex Plan,3.7,sage.riverstone@university.edu
+STU512,Phoenix,Goldwater,2026,Quantum Computing,Vegetarian,"Boulder, CO",Innovation House,14 Meals,3.9,phoenix.goldwater@university.edu
+STU513,River,Moonfield,2027,Environmental Science,Vegan,"Asheville, NC",Morrison Tower,10 Meals,3.3,river.moonfield@university.edu
+STU514,Aspen,Clearbrook,2024,Artificial Intelligence,Gluten-Free,"Seattle, WA",Sunset Village,Unlimited,3.8,aspen.clearbrook@university.edu
+STU515,Willow,Stormridge,2025,Marine Biology,Lactose Intolerant,"Key West, FL",North Campus,14 Meals,3.5,willow.stormridge@university.edu
+STU516,Atlas,Brightwater,2026,Cybersecurity,None,"Austin, TX",Tech Hub,Flex Plan,3.6,atlas.brightwater@university.edu
+STU517,Luna,Silverdale,2027,Digital Arts,Vegetarian,"Santa Barbara, CA",Innovation House,10 Meals,3.4,luna.silverdale@university.edu
+STU518,Orion,Deepwood,2024,Aerospace Engineering,None,"Huntsville, AL",Morrison Tower,14 Meals,3.9,orion.deepwood@university.edu
+STU519,Nova,Crystalbrook,2025,Neuroscience,Vegan,"Burlington, VT",Sunset Village,Unlimited,3.7,nova.crystalbrook@university.edu
+STU520,Zara,Ironcliff,2026,Robotics,Gluten-Free,"Pittsburgh, PA",North Campus,Flex Plan,3.8,zara.ironcliff@university.edu
+STU521,Kai,Thornfield,2027,Sustainable Design,Lactose Intolerant,"Portland, ME",Tech Hub,14 Meals,3.2,kai.thornfield@university.edu
+STU522,Iris,Shadowmere,2024,Data Science,None,"Madison, WI",Innovation House,10 Meals,3.6,iris.shadowmere@university.edu
+STU523,Rowan,Mistwood,2025,Biotechnology,Vegetarian,"Chapel Hill, NC",Morrison Tower,14 Meals,3.5,rowan.mistwood@university.edu
+STU524,Ember,Goldstream,2026,Virtual Reality Design,Vegan,"San Francisco, CA",Sunset Village,Unlimited,3.9,ember.goldstream@university.edu
+STU525,Storm,Blueridge,2027,Climate Science,None,"Denver, CO",North Campus,Flex Plan,3.3,storm.blueridge@university.edu
+STU526,Jade,Whitehaven,2024,Tissue Engineering,Gluten-Free,"Boston, MA",Tech Hub,14 Meals,3.7,jade.whitehaven@university.edu
+STU527,River,Starfall,2025,Social Innovation,Lactose Intolerant,"Nashville, TN",Innovation House,10 Meals,3.4,river.starfall@university.edu
+STU528,Sage,Moonwater,2026,Digital Humanities,None,"Savannah, GA",Morrison Tower,14 Meals,3.8,sage.moonwater@university.edu
+STU529,Phoenix,Silverstone,2027,Ecological Restoration,Vegetarian,"Missoula, MT",Sunset Village,Unlimited,3.6,phoenix.silverstone@university.edu
+STU530,Aurora,Deepbrook,2024,Quantum Physics,Vegan,"Ithaca, NY",North Campus,Flex Plan,3.9,aurora.deepbrook@university.edu
+STU531,Cedar,Brightfield,2025,Machine Learning,None,"Ann Arbor, MI",Tech Hub,14 Meals,3.5,cedar.brightfield@university.edu
+STU532,Wren,Stormwater,2026,Renewable Energy,Gluten-Free,"Eugene, OR",Innovation House,10 Meals,3.7,wren.stormwater@university.edu
+STU533,Vale,Goldbrook,2027,Urban Planning,Lactose Intolerant,"Charleston, SC",Morrison Tower,14 Meals,3.3,vale.goldbrook@university.edu
+STU534,Skye,Ironwood,2024,Bioengineering,None,"Salt Lake City, UT",Sunset Village,Unlimited,3.8,skye.ironwood@university.edu
+STU535,Raven,Clearwater,2025,Computational Biology,Vegetarian,"Burlington, VT",North Campus,Flex Plan,3.6,raven.clearwater@university.edu
+STU536,Sage,Thornbrook,2026,Nanotechnology,Vegan,"Tucson, AZ",Tech Hub,14 Meals,3.4,sage.thornbrook@university.edu
+STU537,Ocean,Silverbrook,2027,Environmental Engineering,None,"Monterey, CA",Innovation House,10 Meals,3.7,ocean.silverbrook@university.edu
+STU538,Luna,Stormfield,2024,Artificial Intelligence,Gluten-Free,"Cambridge, MA",Morrison Tower,14 Meals,3.9,luna.stormfield@university.edu
+STU539,Atlas,Goldwater,2025,Space Sciences,Lactose Intolerant,"Houston, TX",Sunset Village,Unlimited,3.5,atlas.goldwater@university.edu
+STU540,Ivy,Deepwater,2026,Biochemistry,None,"Providence, RI",North Campus,Flex Plan,3.8,ivy.deepwater@university.edu
+STU541,River,Brightstone,2027,Digital Media,Vegetarian,"Asheville, NC",Tech Hub,14 Meals,3.2,river.brightstone@university.edu
+STU542,Nova,Shadowbrook,2024,Materials Science,Vegan,"Berkeley, CA",Innovation House,10 Meals,3.6,nova.shadowbrook@university.edu
+STU543,Zara,Moonstone,2025,Cognitive Science,None,"New Haven, CT",Morrison Tower,14 Meals,3.7,zara.moonstone@university.edu
+STU544,Phoenix,Clearfield,2026,Sustainable Engineering,Gluten-Free,"Portland, OR",Sunset Village,Unlimited,3.9,phoenix.clearfield@university.edu
+STU545,Sage,Ironbrook,2027,Marine Sciences,Lactose Intolerant,"Woods Hole, MA",North Campus,Flex Plan,3.4,sage.ironbrook@university.edu
+STU546,Ember,Stormridge,2024,Robotics Engineering,None,"Pittsburgh, PA",Tech Hub,14 Meals,3.8,ember.stormridge@university.edu
+STU547,Willow,Goldfield,2025,Environmental Policy,Vegetarian,"Boulder, CO",Innovation House,10 Meals,3.5,willow.goldfield@university.edu
+STU548,Atlas,Silverwater,2026,Quantum Computing,Vegan,"Austin, TX",Morrison Tower,14 Meals,3.6,atlas.silverwater@university.edu
+STU549,Luna,Deepstone,2027,Biotechnology,None,"San Diego, CA",Sunset Village,Unlimited,3.3,luna.deepstone@university.edu
+STU550,River,Brightwater,2024,Data Analytics,Gluten-Free,"Seattle, WA",North Campus,Flex Plan,3.9,river.brightwater@university.edu
+STU551,Sage,Thornwater,2025,Cybersecurity,Lactose Intolerant,"Raleigh, NC",Tech Hub,14 Meals,3.7,sage.thornwater@university.edu
+STU552,Phoenix,Goldstone,2026,Virtual Reality,None,"Los Angeles, CA",Innovation House,10 Meals,3.4,phoenix.goldstone@university.edu
+STU553,Nova,Clearbrook,2027,Climate Engineering,Vegetarian,"Denver, CO",Morrison Tower,14 Meals,3.8,nova.clearbrook@university.edu
+STU554,Zara,Stormwater,2024,Tissue Engineering,Vegan,"Boston, MA",Sunset Village,Unlimited,3.6,zara.stormwater@university.edu
+STU555,Ember,Silverfield,2025,Social Innovation,None,"Nashville, TN",North Campus,Flex Plan,3.5,ember.silverfield@university.edu
+STU556,Willow,Deepbrook,2026,Digital Humanities,Gluten-Free,"Savannah, GA",Tech Hub,14 Meals,3.7,willow.deepbrook@university.edu
+STU557,Atlas,Moonwater,2027,Ecological Design,Lactose Intolerant,"Missoula, MT",Innovation House,10 Meals,3.2,atlas.moonwater@university.edu
+STU558,Luna,Brightfield,2024,Quantum Physics,None,"Ithaca, NY",Morrison Tower,14 Meals,3.9,luna.brightfield@university.edu
+STU559,River,Goldbrook,2025,Machine Learning,Vegetarian,"Ann Arbor, MI",Sunset Village,Unlimited,3.8,river.goldbrook@university.edu
+STU560,Sage,Stormstone,2026,Renewable Energy,Vegan,"Eugene, OR",North Campus,Flex Plan,3.4,sage.stormstone@university.edu
+STU561,Phoenix,Clearwater,2027,Urban Design,None,"Charleston, SC",Tech Hub,14 Meals,3.6,phoenix.clearwater@university.edu
+STU562,Nova,Ironfield,2024,Bioengineering,Gluten-Free,"Salt Lake City, UT",Innovation House,10 Meals,3.7,nova.ironfield@university.edu
+STU563,Zara,Silverbrook,2025,Computational Science,Lactose Intolerant,"Burlington, VT",Morrison Tower,14 Meals,3.5,zara.silverbrook@university.edu
+STU564,Ember,Deepwater,2026,Nanotechnology,None,"Tucson, AZ",Sunset Village,Unlimited,3.9,ember.deepwater@university.edu
+STU565,Willow,Goldwater,2027,Environmental Science,Vegetarian,"Monterey, CA",North Campus,Flex Plan,3.3,willow.goldwater@university.edu
+STU566,Atlas,Stormfield,2024,Artificial Intelligence,Vegan,"Cambridge, MA",Tech Hub,14 Meals,3.8,atlas.stormfield@university.edu
+STU567,Luna,Brightstone,2025,Space Engineering,None,"Houston, TX",Innovation House,10 Meals,3.6,luna.brightstone@university.edu
+STU568,River,Moonbrook,2026,Biochemistry,Gluten-Free,"Providence, RI",Morrison Tower,14 Meals,3.7,river.moonbrook@university.edu
+STU569,Sage,Clearfield,2027,Digital Arts,Lactose Intolerant,"Asheville, NC",Sunset Village,Unlimited,3.4,sage.clearfield@university.edu
+STU570,Phoenix,Silverwater,2024,Materials Engineering,None,"Berkeley, CA",North Campus,Flex Plan,3.9,phoenix.silverwater@university.edu
+STU571,Nova,Goldfield,2025,Cognitive Science,Vegetarian,"New Haven, CT",Tech Hub,14 Meals,3.5,nova.goldfield@university.edu
+STU572,Zara,Deepstone,2026,Sustainable Design,Vegan,"Portland, OR",Innovation House,10 Meals,3.8,zara.deepstone@university.edu
+STU573,Ember,Stormbrook,2027,Marine Biology,None,"Woods Hole, MA",Morrison Tower,14 Meals,3.2,ember.stormbrook@university.edu
+STU574,Willow,Brightwater,2024,Robotics,Gluten-Free,"Pittsburgh, PA",Sunset Village,Unlimited,3.7,willow.brightwater@university.edu
+STU575,Atlas,Thornfield,2025,Environmental Policy,Lactose Intolerant,"Boulder, CO",North Campus,Flex Plan,3.6,atlas.thornfield@university.edu
+STU576,Luna,Silverstone,2026,Quantum Computing,None,"Austin, TX",Tech Hub,14 Meals,3.9,luna.silverstone@university.edu
+STU577,River,Goldwater,2027,Biotechnology,Vegetarian,"San Diego, CA",Innovation House,10 Meals,3.4,river.goldwater@university.edu
+STU578,Sage,Clearbrook,2024,Data Science,Vegan,"Seattle, WA",Morrison Tower,14 Meals,3.8,sage.clearbrook@university.edu
+STU579,Phoenix,Deepfield,2025,Cybersecurity,None,"Raleigh, NC",Sunset Village,Unlimited,3.5,phoenix.deepfield@university.edu
+STU580,Nova,Stormwater,2026,Virtual Reality Design,Gluten-Free,"Los Angeles, CA",North Campus,Flex Plan,3.7,nova.stormwater@university.edu
+STU581,Zara,Brightstone,2027,Climate Science,Lactose Intolerant,"Denver, CO",Tech Hub,14 Meals,3.3,zara.brightstone@university.edu
+STU582,Ember,Moonwater,2024,Tissue Engineering,None,"Boston, MA",Innovation House,10 Meals,3.9,ember.moonwater@university.edu
+STU583,Willow,Silverfield,2025,Social Innovation,Vegetarian,"Nashville, TN",Morrison Tower,14 Meals,3.6,willow.silverfield@university.edu
+STU584,Atlas,Goldbrook,2026,Digital Humanities,Vegan,"Savannah, GA",Sunset Village,Unlimited,3.4,atlas.goldbrook@university.edu
+STU585,Luna,Stormridge,2027,Ecological Restoration,None,"Missoula, MT",North Campus,Flex Plan,3.8,luna.stormridge@university.edu
+STU586,River,Clearwater,2024,Quantum Physics,Gluten-Free,"Ithaca, NY",Tech Hub,14 Meals,3.7,river.clearwater@university.edu
+STU587,Sage,Brightfield,2025,Machine Learning,Lactose Intolerant,"Ann Arbor, MI",Innovation House,10 Meals,3.5,sage.brightfield@university.edu
+STU588,Phoenix,Deepwater,2026,Renewable Energy,None,"Eugene, OR",Morrison Tower,14 Meals,3.9,phoenix.deepwater@university.edu
+STU589,Nova,Goldstone,2027,Urban Planning,Vegetarian,"Charleston, SC",Sunset Village,Unlimited,3.2,nova.goldstone@university.edu
+STU590,Zara,Stormfield,2024,Bioengineering,Vegan,"Salt Lake City, UT",North Campus,Flex Plan,3.8,zara.stormfield@university.edu
+STU591,Ember,Silverbrook,2025,Computational Biology,None,"Burlington, VT",Tech Hub,14 Meals,3.6,ember.silverbrook@university.edu
+STU592,Willow,Moonstone,2026,Nanotechnology,Gluten-Free,"Tucson, AZ",Innovation House,10 Meals,3.7,willow.moonstone@university.edu
+STU593,Atlas,Clearfield,2027,Environmental Engineering,Lactose Intolerant,"Monterey, CA",Morrison Tower,14 Meals,3.4,atlas.clearfield@university.edu
+STU594,Luna,Goldwater,2024,Artificial Intelligence,None,"Cambridge, MA",Sunset Village,Unlimited,3.9,luna.goldwater@university.edu
+STU595,River,Stormstone,2025,Space Sciences,Vegetarian,"Houston, TX",North Campus,Flex Plan,3.5,river.stormstone@university.edu
+STU596,Sage,Brightbrook,2026,Biochemistry,Vegan,"Providence, RI",Tech Hub,14 Meals,3.8,sage.brightbrook@university.edu
+STU597,Phoenix,Deepstone,2027,Digital Media,None,"Asheville, NC",Innovation House,10 Meals,3.3,phoenix.deepstone@university.edu
+STU598,Nova,Silverwater,2024,Materials Science,Gluten-Free,"Berkeley, CA",Morrison Tower,14 Meals,3.7,nova.silverwater@university.edu
+STU599,Zara,Goldfield,2025,Cognitive Science,Lactose Intolerant,"New Haven, CT",Sunset Village,Unlimited,3.6,zara.goldfield@university.edu
+STU600,Ember,Stormbrook,2026,Sustainable Engineering,None,"Portland, OR",North Campus,Flex Plan,3.9,ember.stormbrook@university.edu
+STU601,Willow,Clearwater,2027,Marine Sciences,Vegetarian,"Woods Hole, MA",Tech Hub,14 Meals,3.4,willow.clearwater@university.edu
+STU602,Atlas,Brightstone,2024,Robotics Engineering,Vegan,"Pittsburgh, PA",Innovation House,10 Meals,3.8,atlas.brightstone@university.edu
+STU603,Luna,Goldbrook,2025,Environmental Policy,None,"Boulder, CO",Morrison Tower,14 Meals,3.5,luna.goldbrook@university.edu
+STU604,River,Stormwater,2026,Quantum Computing,Gluten-Free,"Austin, TX",Sunset Village,Unlimited,3.7,river.stormwater@university.edu
+STU605,Sage,Deepfield,2027,Biotechnology,Lactose Intolerant,"San Diego, CA",North Campus,Flex Plan,3.2,sage.deepfield@university.edu
+STU606,Phoenix,Silverstone,2024,Data Analytics,None,"Seattle, WA",Tech Hub,14 Meals,3.9,phoenix.silverstone@university.edu
+STU607,Nova,Moonwater,2025,Cybersecurity,Vegetarian,"Raleigh, NC",Innovation House,10 Meals,3.6,nova.moonwater@university.edu
+STU608,Zara,Brightfield,2026,Virtual Reality,Vegan,"Los Angeles, CA",Morrison Tower,14 Meals,3.8,zara.brightfield@university.edu
+STU609,Ember,Goldwater,2027,Climate Engineering,None,"Denver, CO",Sunset Village,Unlimited,3.4,ember.goldwater@university.edu
+STU610,Willow,Stormridge,2024,Tissue Engineering,Gluten-Free,"Boston, MA",North Campus,Flex Plan,3.7,willow.stormridge@university.edu
+STU611,Atlas,Clearbrook,2025,Social Innovation,Lactose Intolerant,"Nashville, TN",Tech Hub,14 Meals,3.5,atlas.clearbrook@university.edu
+STU612,Luna,Silverfield,2026,Digital Humanities,None,"Savannah, GA",Innovation House,10 Meals,3.9,luna.silverfield@university.edu
+STU613,River,Deepwater,2027,Ecological Design,Vegetarian,"Missoula, MT",Morrison Tower,14 Meals,3.3,river.deepwater@university.edu
+STU614,Sage,Goldstone,2024,Quantum Physics,Vegan,"Ithaca, NY",Sunset Village,Unlimited,3.8,sage.goldstone@university.edu
+STU615,Phoenix,Stormfield,2025,Machine Learning,None,"Ann Arbor, MI",North Campus,Flex Plan,3.6,phoenix.stormfield@university.edu
+STU616,Nova,Brightwater,2026,Renewable Energy,Gluten-Free,"Eugene, OR",Tech Hub,14 Meals,3.7,nova.brightwater@university.edu
+STU617,Zara,Moonbrook,2027,Urban Design,Lactose Intolerant,"Charleston, SC",Innovation House,10 Meals,3.4,zara.moonbrook@university.edu
+STU618,Ember,Clearfield,2024,Bioengineering,None,"Salt Lake City, UT",Morrison Tower,14 Meals,3.9,ember.clearfield@university.edu
+STU619,Willow,Goldwater,2025,Computational Science,Vegetarian,"Burlington, VT",Sunset Village,Unlimited,3.5,willow.goldwater@university.edu
+STU620,Atlas,Stormstone,2026,Nanotechnology,Vegan,"Tucson, AZ",North Campus,Flex Plan,3.8,atlas.stormstone@university.edu
+STU621,Luna,Silverbrook,2027,Environmental Science,None,"Monterey, CA",Tech Hub,14 Meals,3.2,luna.silverbrook@university.edu
+STU622,River,Deepfield,2024,Artificial Intelligence,Gluten-Free,"Cambridge, MA",Innovation House,10 Meals,3.7,river.deepfield@university.edu
+STU623,Sage,Brightstone,2025,Space Engineering,Lactose Intolerant,"Houston, TX",Morrison Tower,14 Meals,3.6,sage.brightstone@university.edu
+STU624,Phoenix,Goldbrook,2026,Biochemistry,None,"Providence, RI",Sunset Village,Unlimited,3.9,phoenix.goldbrook@university.edu
+STU625,Nova,Stormwater,2027,Digital Arts,Vegetarian,"Asheville, NC",North Campus,Flex Plan,3.4,nova.stormwater@university.edu
+STU626,Zara,Clearwater,2024,Materials Engineering,Vegan,"Berkeley, CA",Tech Hub,14 Meals,3.8,zara.clearwater@university.edu
+STU627,Ember,Brightfield,2025,Cognitive Science,None,"New Haven, CT",Innovation House,10 Meals,3.5,ember.brightfield@university.edu
+STU628,Willow,Goldstone,2026,Sustainable Design,Gluten-Free,"Portland, OR",Morrison Tower,14 Meals,3.7,willow.goldstone@university.edu
+STU629,Atlas,Deepwater,2027,Marine Biology,Lactose Intolerant,"Woods Hole, MA",Sunset Village,Unlimited,3.3,atlas.deepwater@university.edu
+STU630,Luna,Stormfield,2024,Robotics,None,"Pittsburgh, PA",North Campus,Flex Plan,3.9,luna.stormfield@university.edu
+STU631,River,Silverstone,2025,Environmental Policy,Vegetarian,"Boulder, CO",Tech Hub,14 Meals,3.6,river.silverstone@university.edu
+STU632,Sage,Moonwater,2026,Quantum Computing,Vegan,"Austin, TX",Innovation House,10 Meals,3.8,sage.moonwater@university.edu
+STU633,Phoenix,Clearbrook,2027,Biotechnology,None,"San Diego, CA",Morrison Tower,14 Meals,3.4,phoenix.clearbrook@university.edu
+STU634,Nova,Goldfield,2024,Data Science,Gluten-Free,"Seattle, WA",Sunset Village,Unlimited,3.7,nova.goldfield@university.edu
+STU635,Zara,Stormridge,2025,Cybersecurity,Lactose Intolerant,"Raleigh, NC",North Campus,Flex Plan,3.5,zara.stormridge@university.edu
+STU636,Ember,Brightwater,2026,Virtual Reality Design,None,"Los Angeles, CA",Tech Hub,14 Meals,3.9,ember.brightwater@university.edu
+STU637,Willow,Deepstone,2027,Climate Science,Vegetarian,"Denver, CO",Innovation House,10 Meals,3.2,willow.deepstone@university.edu
+STU638,Atlas,Silverfield,2024,Tissue Engineering,Vegan,"Boston, MA",Morrison Tower,14 Meals,3.8,atlas.silverfield@university.edu
+STU639,Luna,Goldwater,2025,Social Innovation,None,"Nashville, TN",Sunset Village,Unlimited,3.6,luna.goldwater@university.edu
+STU640,River,Stormbrook,2026,Digital Humanities,Gluten-Free,"Savannah, GA",North Campus,Flex Plan,3.7,river.stormbrook@university.edu
+STU641,Sage,Clearfield,2027,Ecological Restoration,Lactose Intolerant,"Missoula, MT",Tech Hub,14 Meals,3.4,sage.clearfield@university.edu
+STU642,Phoenix,Brightstone,2024,Quantum Physics,None,"Ithaca, NY",Innovation House,10 Meals,3.9,phoenix.brightstone@university.edu
+STU643,Nova,Deepwater,2025,Machine Learning,Vegetarian,"Ann Arbor, MI",Morrison Tower,14 Meals,3.5,nova.deepwater@university.edu
+STU644,Zara,Goldbrook,2026,Renewable Energy,Vegan,"Eugene, OR",Sunset Village,Unlimited,3.8,zara.goldbrook@university.edu
+STU645,Ember,Stormwater,2027,Urban Planning,None,"Charleston, SC",North Campus,Flex Plan,3.3,ember.stormwater@university.edu
+STU646,Willow,Silverstone,2024,Bioengineering,Gluten-Free,"Salt Lake City, UT",Tech Hub,14 Meals,3.7,willow.silverstone@university.edu
+STU647,Atlas,Moonfield,2025,Computational Biology,Lactose Intolerant,"Burlington, VT",Innovation House,10 Meals,3.6,atlas.moonfield@university.edu
+STU648,Luna,Clearwater,2026,Nanotechnology,None,"Tucson, AZ",Morrison Tower,14 Meals,3.9,luna.clearwater@university.edu
+STU649,River,Goldstone,2027,Environmental Engineering,Vegetarian,"Monterey, CA",Sunset Village,Unlimited,3.4,river.goldstone@university.edu
+STU650,Sage,Stormfield,2024,Artificial Intelligence,Vegan,"Cambridge, MA",North Campus,Flex Plan,3.8,sage.stormfield@university.edu
+STU651,Phoenix,Brightwater,2025,Space Sciences,None,"Houston, TX",Tech Hub,14 Meals,3.5,phoenix.brightwater@university.edu
+STU652,Nova,Deepstone,2026,Biochemistry,Gluten-Free,"Providence, RI",Innovation House,10 Meals,3.7,nova.deepstone@university.edu
+STU653,Zara,Silverfield,2027,Digital Media,Lactose Intolerant,"Asheville, NC",Morrison Tower,14 Meals,3.2,zara.silverfield@university.edu
+STU654,Ember,Goldwater,2024,Materials Science,None,"Berkeley, CA",Sunset Village,Unlimited,3.9,ember.goldwater@university.edu
+STU655,Willow,Stormbrook,2025,Cognitive Science,Vegetarian,"New Haven, CT",North Campus,Flex Plan,3.6,willow.stormbrook@university.edu
+STU656,Atlas,Clearfield,2026,Sustainable Engineering,Vegan,"Portland, OR",Tech Hub,14 Meals,3.8,atlas.clearfield@university.edu
+STU657,Luna,Brightstone,2027,Marine Sciences,None,"Woods Hole, MA",Innovation House,10 Meals,3.4,luna.brightstone@university.edu
+STU658,River,Goldbrook,2024,Robotics Engineering,Gluten-Free,"Pittsburgh, PA",Morrison Tower,14 Meals,3.7,river.goldbrook@university.edu
+STU659,Sage,Deepwater,2025,Environmental Policy,Lactose Intolerant,"Boulder, CO",Sunset Village,Unlimited,3.5,sage.deepwater@university.edu
+STU660,Phoenix,Stormridge,2026,Quantum Computing,None,"Austin, TX",North Campus,Flex Plan,3.9,phoenix.stormridge@university.edu
+STU661,Nova,Silverstone,2027,Biotechnology,Vegetarian,"San Diego, CA",Tech Hub,14 Meals,3.3,nova.silverstone@university.edu
+STU662,Zara,Moonwater,2024,Data Analytics,Vegan,"Seattle, WA",Innovation House,10 Meals,3.8,zara.moonwater@university.edu
+STU663,Ember,Clearbrook,2025,Cybersecurity,None,"Raleigh, NC",Morrison Tower,14 Meals,3.6,ember.clearbrook@university.edu
+STU664,Willow,Goldfield,2026,Virtual Reality,Gluten-Free,"Los Angeles, CA",Sunset Village,Unlimited,3.7,willow.goldfield@university.edu
+STU665,Atlas,Stormwater,2027,Climate Engineering,Lactose Intolerant,"Denver, CO",North Campus,Flex Plan,3.4,atlas.stormwater@university.edu
+STU666,Luna,Brightfield,2024,Tissue Engineering,None,"Boston, MA",Tech Hub,14 Meals,3.9,luna.brightfield@university.edu
+STU667,River,Deepstone,2025,Social Innovation,Vegetarian,"Nashville, TN",Innovation House,10 Meals,3.5,river.deepstone@university.edu
+STU668,Sage,Silverwater,2026,Digital Humanities,Vegan,"Savannah, GA",Morrison Tower,14 Meals,3.8,sage.silverwater@university.edu
+STU669,Phoenix,Goldbrook,2027,Ecological Design,None,"Missoula, MT",Sunset Village,Unlimited,3.2,phoenix.goldbrook@university.edu
+STU670,Nova,Stormfield,2024,Quantum Physics,Gluten-Free,"Ithaca, NY",North Campus,Flex Plan,3.7,nova.stormfield@university.edu
+STU671,Zara,Clearwater,2025,Machine Learning,Lactose Intolerant,"Ann Arbor, MI",Tech Hub,14 Meals,3.6,zara.clearwater@university.edu
+STU672,Ember,Brightstone,2026,Renewable Energy,None,"Eugene, OR",Innovation House,10 Meals,3.9,ember.brightstone@university.edu
+STU673,Willow,Goldwater,2027,Urban Design,Vegetarian,"Charleston, SC",Morrison Tower,14 Meals,3.4,willow.goldwater@university.edu
+STU674,Atlas,Deepfield,2024,Bioengineering,Vegan,"Salt Lake City, UT",Sunset Village,Unlimited,3.8,atlas.deepfield@university.edu
+STU675,Luna,Stormstone,2025,Computational Science,None,"Burlington, VT",North Campus,Flex Plan,3.5,luna.stormstone@university.edu
+STU676,River,Silverbrook,2026,Nanotechnology,Gluten-Free,"Tucson, AZ",Tech Hub,14 Meals,3.7,river.silverbrook@university.edu
+STU677,Sage,Moonfield,2027,Environmental Science,Lactose Intolerant,"Monterey, CA",Innovation House,10 Meals,3.3,sage.moonfield@university.edu
+STU678,Phoenix,Clearwater,2024,Artificial Intelligence,None,"Cambridge, MA",Morrison Tower,14 Meals,3.9,phoenix.clearwater@university.edu
+STU679,Nova,Goldstone,2025,Space Engineering,Vegetarian,"Houston, TX",Sunset Village,Unlimited,3.6,nova.goldstone@university.edu
+STU680,Zara,Stormfield,2026,Biochemistry,Vegan,"Providence, RI",North Campus,Flex Plan,3.8,zara.stormfield@university.edu
+STU681,Ember,Brightwater,2027,Digital Arts,None,"Asheville, NC",Tech Hub,14 Meals,3.4,ember.brightwater@university.edu
+STU682,Willow,Deepstone,2024,Materials Engineering,Gluten-Free,"Berkeley, CA",Innovation House,10 Meals,3.7,willow.deepstone@university.edu
+STU683,Atlas,Silverfield,2025,Cognitive Science,Lactose Intolerant,"New Haven, CT",Morrison Tower,14 Meals,3.5,atlas.silverfield@university.edu
+STU684,Luna,Goldwater,2026,Sustainable Design,None,"Portland, OR",Sunset Village,Unlimited,3.9,luna.goldwater@university.edu
+STU685,River,Stormbrook,2027,Marine Biology,Vegetarian,"Woods Hole, MA",North Campus,Flex Plan,3.2,river.stormbrook@university.edu
+STU686,Sage,Clearfield,2024,Robotics,Vegan,"Pittsburgh, PA",Tech Hub,14 Meals,3.8,sage.clearfield@university.edu
+STU687,Phoenix,Brightstone,2025,Environmental Policy,None,"Boulder, CO",Innovation House,10 Meals,3.6,phoenix.brightstone@university.edu
+STU688,Nova,Deepwater,2026,Quantum Computing,Gluten-Free,"Austin, TX",Morrison Tower,14 Meals,3.7,nova.deepwater@university.edu
+STU689,Zara,Goldbrook,2027,Biotechnology,Lactose Intolerant,"San Diego, CA",Sunset Village,Unlimited,3.4,zara.goldbrook@university.edu
+STU690,Ember,Stormwater,2024,Data Science,None,"Seattle, WA",North Campus,Flex Plan,3.9,ember.stormwater@university.edu
+STU691,Willow,Silverstone,2025,Cybersecurity,Vegetarian,"Raleigh, NC",Tech Hub,14 Meals,3.5,willow.silverstone@university.edu
+STU692,Atlas,Moonwater,2026,Virtual Reality Design,Vegan,"Los Angeles, CA",Innovation House,10 Meals,3.8,atlas.moonwater@university.edu
+STU693,Luna,Clearbrook,2027,Climate Science,None,"Denver, CO",Morrison Tower,14 Meals,3.3,luna.clearbrook@university.edu
+STU694,River,Goldfield,2024,Tissue Engineering,Gluten-Free,"Boston, MA",Sunset Village,Unlimited,3.7,river.goldfield@university.edu
+STU695,Sage,Stormridge,2025,Social Innovation,Lactose Intolerant,"Nashville, TN",North Campus,Flex Plan,3.6,sage.stormridge@university.edu
+STU696,Phoenix,Brightwater,2026,Digital Humanities,None,"Savannah, GA",Tech Hub,14 Meals,3.9,phoenix.brightwater@university.edu
+STU697,Nova,Deepstone,2027,Ecological Restoration,Vegetarian,"Missoula, MT",Innovation House,10 Meals,3.4,nova.deepstone@university.edu
+STU698,Zara,Silverfield,2024,Quantum Physics,Vegan,"Ithaca, NY",Morrison Tower,14 Meals,3.8,zara.silverfield@university.edu
+STU699,Ember,Goldwater,2025,Machine Learning,None,"Ann Arbor, MI",Sunset Village,Unlimited,3.5,ember.goldwater@university.edu
+STU700,Willow,Stormbrook,2026,Renewable Energy,Gluten-Free,"Eugene, OR",North Campus,Flex Plan,3.7,willow.stormbrook@university.edu
+STU701,Atlas,Clearfield,2027,Urban Planning,Lactose Intolerant,"Charleston, SC",Tech Hub,14 Meals,3.2,atlas.clearfield@university.edu
+STU702,Luna,Brightstone,2024,Bioengineering,None,"Salt Lake City, UT",Innovation House,10 Meals,3.9,luna.brightstone@university.edu
+STU703,River,Goldbrook,2025,Computational Biology,Vegetarian,"Burlington, VT",Morrison Tower,14 Meals,3.6,river.goldbrook@university.edu
+STU704,Sage,Deepwater,2026,Nanotechnology,Vegan,"Tucson, AZ",Sunset Village,Unlimited,3.8,sage.deepwater@university.edu
+STU705,Phoenix,Stormwater,2027,Environmental Engineering,None,"Monterey, CA",North Campus,Flex Plan,3.4,phoenix.stormwater@university.edu
+STU706,Nova,Silverstone,2024,Artificial Intelligence,Gluten-Free,"Cambridge, MA",Tech Hub,14 Meals,3.7,nova.silverstone@university.edu
+STU707,Zara,Moonfield,2025,Space Sciences,Lactose Intolerant,"Houston, TX",Innovation House,10 Meals,3.5,zara.moonfield@university.edu
+STU708,Ember,Clearwater,2026,Biochemistry,None,"Providence, RI",Morrison Tower,14 Meals,3.9,ember.clearwater@university.edu
+STU709,Willow,Goldstone,2027,Digital Media,Vegetarian,"Asheville, NC",Sunset Village,Unlimited,3.3,willow.goldstone@university.edu
+STU710,Atlas,Stormfield,2024,Materials Science,Vegan,"Berkeley, CA",North Campus,Flex Plan,3.8,atlas.stormfield@university.edu
+STU711,Luna,Brightwater,2025,Cognitive Science,None,"New Haven, CT",Tech Hub,14 Meals,3.6,luna.brightwater@university.edu
+STU712,River,Deepstone,2026,Sustainable Engineering,Gluten-Free,"Portland, OR",Innovation House,10 Meals,3.7,river.deepstone@university.edu
+STU713,Sage,Silverfield,2027,Marine Sciences,Lactose Intolerant,"Woods Hole, MA",Morrison Tower,14 Meals,3.4,sage.silverfield@university.edu
+STU714,Phoenix,Goldwater,2024,Robotics Engineering,None,"Pittsburgh, PA",Sunset Village,Unlimited,3.9,phoenix.goldwater@university.edu
+STU715,Nova,Stormbrook,2025,Environmental Policy,Vegetarian,"Boulder, CO",North Campus,Flex Plan,3.5,nova.stormbrook@university.edu
+STU716,Zara,Clearfield,2026,Quantum Computing,Vegan,"Austin, TX",Tech Hub,14 Meals,3.8,zara.clearfield@university.edu
+STU717,Ember,Brightstone,2027,Biotechnology,None,"San Diego, CA",Innovation House,10 Meals,3.2,ember.brightstone@university.edu
+STU718,Willow,Goldbrook,2024,Data Analytics,Gluten-Free,"Seattle, WA",Morrison Tower,14 Meals,3.7,willow.goldbrook@university.edu
+STU719,Atlas,Deepwater,2025,Cybersecurity,Lactose Intolerant,"Raleigh, NC",Sunset Village,Unlimited,3.6,atlas.deepwater@university.edu
+STU720,Luna,Stormwater,2026,Virtual Reality,None,"Los Angeles, CA",North Campus,Flex Plan,3.9,luna.stormwater@university.edu
+STU721,River,Silverstone,2027,Climate Engineering,Vegetarian,"Denver, CO",Tech Hub,14 Meals,3.4,river.silverstone@university.edu
+STU722,Sage,Moonwater,2024,Tissue Engineering,Vegan,"Boston, MA",Innovation House,10 Meals,3.8,sage.moonwater@university.edu
+STU723,Phoenix,Clearbrook,2025,Social Innovation,None,"Nashville, TN",Morrison Tower,14 Meals,3.5,phoenix.clearbrook@university.edu
+STU724,Nova,Goldfield,2026,Digital Humanities,Gluten-Free,"Savannah, GA",Sunset Village,Unlimited,3.7,nova.goldfield@university.edu
+STU725,Zara,Stormridge,2027,Ecological Design,Lactose Intolerant,"Missoula, MT",North Campus,Flex Plan,3.3,zara.stormridge@university.edu
+STU726,Ember,Brightwater,2024,Quantum Physics,None,"Ithaca, NY",Tech Hub,14 Meals,3.9,ember.brightwater@university.edu
+STU727,Willow,Deepstone,2025,Machine Learning,Vegetarian,"Ann Arbor, MI",Innovation House,10 Meals,3.6,willow.deepstone@university.edu
+STU728,Atlas,Silverfield,2026,Renewable Energy,Vegan,"Eugene, OR",Morrison Tower,14 Meals,3.8,atlas.silverfield@university.edu
+STU729,Luna,Goldwater,2027,Urban Design,None,"Charleston, SC",Sunset Village,Unlimited,3.4,luna.goldwater@university.edu
+STU730,River,Stormbrook,2024,Bioengineering,Gluten-Free,"Salt Lake City, UT",North Campus,Flex Plan,3.7,river.stormbrook@university.edu
+STU731,Sage,Clearfield,2025,Computational Science,Lactose Intolerant,"Burlington, VT",Tech Hub,14 Meals,3.5,sage.clearfield@university.edu
+STU732,Phoenix,Brightstone,2026,Nanotechnology,None,"Tucson, AZ",Innovation House,10 Meals,3.9,phoenix.brightstone@university.edu
+STU733,Nova,Goldbrook,2027,Environmental Science,Vegetarian,"Monterey, CA",Morrison Tower,14 Meals,3.2,nova.goldbrook@university.edu
+STU734,Zara,Deepwater,2024,Artificial Intelligence,Vegan,"Cambridge, MA",Sunset Village,Unlimited,3.8,zara.deepwater@university.edu
+STU735,Ember,Stormwater,2025,Space Engineering,None,"Houston, TX",North Campus,Flex Plan,3.6,ember.stormwater@university.edu
+STU736,Willow,Silverstone,2026,Biochemistry,Gluten-Free,"Providence, RI",Tech Hub,14 Meals,3.7,willow.silverstone@university.edu
+STU737,Atlas,Moonfield,2027,Digital Arts,Lactose Intolerant,"Asheville, NC",Innovation House,10 Meals,3.4,atlas.moonfield@university.edu
+STU738,Luna,Clearwater,2024,Materials Engineering,None,"Berkeley, CA",Morrison Tower,14 Meals,3.9,luna.clearwater@university.edu
+STU739,River,Goldstone,2025,Cognitive Science,Vegetarian,"New Haven, CT",Sunset Village,Unlimited,3.5,river.goldstone@university.edu
+STU740,Sage,Stormfield,2026,Sustainable Design,Vegan,"Portland, OR",North Campus,Flex Plan,3.8,sage.stormfield@university.edu
+STU741,Phoenix,Brightwater,2027,Marine Biology,None,"Woods Hole, MA",Tech Hub,14 Meals,3.3,phoenix.brightwater@university.edu
+STU742,Nova,Deepstone,2024,Robotics,Gluten-Free,"Pittsburgh, PA",Innovation House,10 Meals,3.7,nova.deepstone@university.edu
+STU743,Zara,Silverfield,2025,Environmental Policy,Lactose Intolerant,"Boulder, CO",Morrison Tower,14 Meals,3.6,zara.silverfield@university.edu
+STU744,Ember,Goldwater,2026,Quantum Computing,None,"Austin, TX",Sunset Village,Unlimited,3.9,ember.goldwater@university.edu
+STU745,Willow,Stormbrook,2027,Biotechnology,Vegetarian,"San Diego, CA",North Campus,Flex Plan,3.4,willow.stormbrook@university.edu
+STU746,Atlas,Clearfield,2024,Data Science,Vegan,"Seattle, WA",Tech Hub,14 Meals,3.8,atlas.clearfield@university.edu
+STU747,Luna,Brightstone,2025,Cybersecurity,None,"Raleigh, NC",Innovation House,10 Meals,3.5,luna.brightstone@university.edu
+STU748,River,Goldbrook,2026,Virtual Reality Design,Gluten-Free,"Los Angeles, CA",Morrison Tower,14 Meals,3.7,river.goldbrook@university.edu
+STU749,Sage,Deepwater,2027,Climate Science,Lactose Intolerant,"Denver, CO",Sunset Village,Unlimited,3.2,sage.deepwater@university.edu
+STU750,Phoenix,Stormwater,2024,Tissue Engineering,None,"Boston, MA",North Campus,Flex Plan,3.9,phoenix.stormwater@university.edu
