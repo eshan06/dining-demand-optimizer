@@ -417,14 +417,19 @@ class APILayer:
     
     def _update_meal_windows(self, windows: Dict[str, Any]):
         """Update meal windows."""
+        from time_grid_service import TimeWindow
+        
         if "breakfast" in windows:
-            self.time_grid_service.breakfast_window = windows["breakfast"]
+            start, end = windows["breakfast"]
+            self.time_grid_service.breakfast_window = TimeWindow(start, end)
         
         if "lunch" in windows:
-            self.time_grid_service.lunch_window = windows["lunch"]
+            start, end = windows["lunch"]
+            self.time_grid_service.lunch_window = TimeWindow(start, end)
         
         if "dinner" in windows:
-            self.time_grid_service.dinner_window = windows["dinner"]
+            start, end = windows["dinner"]
+            self.time_grid_service.dinner_window = TimeWindow(start, end)
         
         # Regenerate time bins
         self.time_grid_service._generate_time_bins()
