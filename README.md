@@ -1,6 +1,6 @@
 # Dining Demand Optimizer — ML Model Overview
 
-This repository predicts per-time-bin dining swipe probabilities for students and aggregates them into a demand surface the optimizer can use. Below is a concise guide to how the ML pipeline is built, trained, and used.
+This repository predicts per-time-bin dining swipe probabilities for students and aggregates them into a demand surface the optimizer can use. Below is a concise guide to how the ML pipeline is built, trained, and used. This was initially built for a Palantir hackathon at Vanderbilt.
 
 ## What the model does
 - Predicts the probability that a given student will swipe in a specific 15‑minute bin across the day.
