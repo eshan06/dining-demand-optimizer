@@ -1,6 +1,6 @@
-# Dining Demand Optimizer — ML Model Overview
+# Rand Line Optimizer — ML Model Overview
 
-This repository predicts per-time-bin dining swipe probabilities for students and aggregates them into a demand surface the optimizer can use. Below is a concise guide to how the ML pipeline is built, trained, and used. This was initially built for a Palantir hackathon at Vanderbilt.
+This repository predicts per-time-bin dining swipe probabilities for students and aggregates them into a demand surface the optimizer can use. Below is a guide to how the ML pipeline is built, trained, and used. This was initially built for a Palantir hackathon at Vanderbilt.
 
 ## What the model does
 - Predicts the probability that a given student will swipe in a specific 15‑minute bin across the day.
@@ -56,6 +56,7 @@ This matrix can be aggregated to site/venue demand curves by time.
 
 ## Running the training demo
 You can run the self-contained demos to build features and train the model using the sample CSVs in the repo.
+The demo was AI generated in a few minutes just so I had something to show judges, so there is a bug or two in the display.
 
 ```bash
 # Option 1: FeatureBuilder demo (prints feature summaries)
